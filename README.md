@@ -26,14 +26,14 @@ El **Gestor Interactivo de Vencimiento de Contraseñas** es una aplicación de t
 
 ## 📦 Distribuciones Soportadas
 
-### ✅ Compatibilidad Total
-- **Arch Linux** y derivados (Manjaro, EndeavourOS)
-- **Debian** y derivados (Ubuntu, Linux Mint, Devuan, MX Linux)
+### ✅ Compatibilidad Total (Se encuentra en el directorio: multi-distros)
+- **Arch Linux** y derivados (Manjaro, Garuda, EndeavourOS, etc)
+- **Debian** y derivados (Ubuntu, Canaima, Linux Mint, Devuan, MX Linux)
 - **Fedora** y derivados (CentOS, RHEL, Scientific Linux)
 - **openSUSE** y derivados
 - **Mageia** y derivados (OpenMandriva)
 
-### ⚠️ Compatibilidad Parcial
+### ⚠️ Compatibilidad Parcial (Se encuentra en el directorio: multi-distros-all)
 - Distribuciones basadas en Mandriva/Mandrake (soporte básico)
 - Sistemas antiguos con gestor urpmi
 
