@@ -83,6 +83,8 @@ sudo ./password-policy-manager.sh
   >  Contiene soportes para todas las distribuciones modernas de linux basados en: Debian, Fedora, Red Gat, Arch, Gentoo
 
   >  La mayoría de las distribuciones modernas, se descargan desde la pagina web oficial de la distribucion correspondiente y luego quemarlo en discos CD o DVD virgenes o tambien flashear **datapad (pendrive USB, memorias micro disquetes MicroSD)** con Balena Etcher, Rufus, comando dd (linux y unix).
-  
+
+### Directorio: manjaro-arch
+  >  Contiene soportes para todas las distribuciones basadas en **Arch linux** y derivados como: Manjaro (el ubuntu de Arch Linux), Garuda, Endevadour OS, etc.
 
 
