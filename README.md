@@ -73,9 +73,13 @@ sudo ./password-policy-manager.sh
 
 ### Directorio: multi-distros-all 
   >  Contiene soportes para antiguas distribuciones basadas de Madriva, Mandrake Linux, Mageia, OpenMadriva
-  >  La mayoria se instalan en CD o DVD correspondientes segun la distribución antigua, ten en cuenta que en internet ya no estan disponibles y ya estan deprecados (obsoletos) y algunos lo trae para bajarlo la ISO desde la pagina web de **Internet Archive**
+  >  La mayoria se instalan en CD o DVD correspondientes segun la distribución antigua, ten en cuenta que en internet ya no estan disponibles y ya estan deprecados (obsoletos) y algunos lo trae para bajarlo la ISO desde la pagina web de **Internet Archive**, luego quemarlo en discos CD o DVD virgenes o tambien flashear **datapad (pendrive USB, memorias micro disquetes MicroSD)** con Balena Etcher, Rufus, comando dd (linux y unix).
+  >  En el Caso de OpenMandriva y Mageia, lo bajan desde la pagina web y luego quemarlo en discos CD o DVD virgenes o tambien flashear **datapad (pendrive USB, memorias micro disquetes MicroSD)** con Balena Etcher, Rufus, comando dd (linux y unix).
+  
 
 ### Directorio: multi-distros
   >  Contiene soportes para todas las distribuciones modernas de linux basados en: Debian, Fedora, Red Gat, Arch, Gentoo
+  >  La mayoría de las distribuciones modernas, se descargan desde la pagina web oficial de la distribucion correspondiente y luego quemarlo en discos CD o DVD virgenes o tambien flashear **datapad (pendrive USB, memorias micro disquetes MicroSD)** con Balena Etcher, Rufus, comando dd (linux y unix).
+  
 
 
