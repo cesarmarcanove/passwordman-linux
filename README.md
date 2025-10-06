@@ -16,6 +16,7 @@ El **Gestor Interactivo de Vencimiento de Contraseñas** es una aplicación de t
 - ✅ **Sistema de Backup/Restore**: Respaldo y recuperación de configuraciones
 - ✅ **Log de Actividades**: Registro completo de todas las operaciones
 - ✅ **Soporte Multi-Distribución**: Compatible con la mayoría de distribuciones Linux
+- ✅ ⚠️ **Solo está disponible en español**
 
 ### 🛡️ Seguridad
 - 🔒 Validación de entrada de datos
@@ -44,7 +45,7 @@ El **Gestor Interactivo de Vencimiento de Contraseñas** es una aplicación de t
 ```bash
 # Descargar el script
 git clone https://github.com/cesarmarcanove/passwordman-linux.git
-cd gestor-contrasenas
+cd passwordman-linux
 
 # Ejecutar instalador
 sudo ./install-password-manager.sh
