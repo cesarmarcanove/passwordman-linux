@@ -52,10 +52,11 @@ cd passwordman-linux
 
 ```
 # Ejecutar instalador
+Hacer ejecutable script instalador: sudo chmod a+x install-password-manager.sh
 sudo ./install-password-manager.sh
 
 # Hacer ejecutable el script
-chmod +x password-policy-manager.sh
+chmod a+x password-policy-manager.sh
 
 # Mover a directorio del sistema
 sudo cp password-policy-manager.sh /usr/local/bin/password-policy-manager
