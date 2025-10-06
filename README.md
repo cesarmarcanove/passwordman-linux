@@ -67,9 +67,10 @@ source ~/.bashrc
 ```
 
 ### Directorio: multi-distros-all 
-    Tiene soporte para antiguas distribuciones basadas de Madriva, Mandrake Linux, Mageia, OpenMadriva  
+  >  Contiene soportes para antiguas distribuciones basadas de Madriva, Mandrake Linux, Mageia, OpenMadriva
+  >  La mayoria se instalan en CD o DVD correspondientes segun la distribución antigua, ten en cuenta que en internet ya no estan disponibles y ya estan deprecados (obsoletos) y algunos lo trae para bajarlo la ISO desde la pagina web de **Internet Archive**
 
 ### Directorio: multi-distros
-    Tiene soporte para todas las distribuciones modernas de linux basados en: Debian, Fedora, Red Gat, Arch, Gentoo
+  >  Contiene soportes para todas las distribuciones modernas de linux basados en: Debian, Fedora, Red Gat, Arch, Gentoo
 
 
