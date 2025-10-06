@@ -51,6 +51,9 @@ cd passwordman-linux
 ### Método Manual
 
 ```
+# Ejecutar instalador
+sudo ./install-password-manager.sh
+
 # Hacer ejecutable el script
 chmod +x password-policy-manager.sh
 
@@ -61,6 +64,10 @@ sudo chmod 755 /usr/local/bin/password-policy-manager
 # Crear alias (opcional)
 echo "alias password-manager='sudo password-policy-manager'" >> ~/.bashrc
 source ~/.bashrc
+
+# Ejecutar Aplicativo
+sudo ./password-policy-manager.sh
+
 ```
 
 ### Directorio: multi-distros-all 
