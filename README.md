@@ -46,9 +46,6 @@ El **Gestor Interactivo de Vencimiento de Contraseñas** es una aplicación de t
 # Descargar el script
 git clone https://github.com/cesarmarcanove/passwordman-linux.git
 cd passwordman-linux
-
-# Ejecutar instalador
-sudo ./install-password-manager.sh
 ```
 
 ### Método Manual
