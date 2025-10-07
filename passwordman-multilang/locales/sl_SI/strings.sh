@@ -1,0 +1,47 @@
+#!/bin/bash
+# Slovenian Translations v2.3
+
+TITLE="Upravitelj politike gesel v2.3"
+MENU_VIEW_CURRENT="Ogled trenutnih nastavitev"
+MENU_SET_DEFAULT="Nastavi privzeto politiko"
+MENU_SET_USER="Nastavi politiko za uporabnika"
+MENU_ADVANCED="Napredne nastavitve"
+MENU_USER_STATUS="Ogled stanja uporabnikov"
+MENU_APPLY_ALL="Uveljavi za vse uporabnike"
+MENU_SECURITY="Ogled varnostnih politik"
+MENU_BACKUP="Ustvari varnostno kopijo"
+MENU_RESTORE="Obnovi varnostno kopijo"
+MENU_SYSINFO="Sistemske informacije"
+MENU_COMPLEXITY="Zahtevnost gesel"
+MENU_CHANGE_PASS="Spremeni uporabniško geslo"
+MENU_CHANGE_ROOT_PASS="Spremeni root geslo"
+MENU_ABOUT="O programu"
+MENU_LOG="Ogled dnevika dejavnosti"
+MENU_EXIT="Izhod"
+
+CHANGE_PASS_TITLE="Spremeni Geslo"
+CHANGE_PASS_USER="Izberite uporabnika:"
+CHANGE_PASS_NEW="Vnesite novo geslo:"
+CHANGE_PASS_CONFIRM="Potrdite geslo:"
+CHANGE_PASS_ROOT_WARNING="OPOZORILO! Spreminjate root geslo."
+CHANGE_PASS_SUCCESS="✓ Geslo uspešno spremenjeno za: %s"
+CHANGE_PASS_MISMATCH="✗ Gesli se ne ujemata"
+CHANGE_PASS_EMPTY="✗ Geslo ne more biti prazno"
+CHANGE_PASS_WEAK="✗ Geslo prešibko. Uporabite močnejše geslo"
+CHANGE_PASS_ERROR="✗ Napaka pri spreminjanju gesla"
+
+ABOUT_TITLE="O programu v2.3"
+ABOUT_TEXT="Univerzalni upravitelj politike gesel\n\nRazličica: 2.3\nPodpora za več distribucij\nVečjezična podpora\nPolne funkcije upravljanja\n\nRazvito za Linux"
+
+WELCOME_TITLE="Dobrodošli v Upravitelju v2.3"
+WELCOME_MSG="UPRAVITELJ POLITIKE GESEL v2.3\n\nDistribucija: %s\nJezik: Slovenščina\n\nZnačilnosti:\n• Upravljanje politik\n• Spreminjanje gesel\n• Večjezičnost\n• Varnostno kopiranje in obnovitev"
+
+LANG_SELECT_TITLE="Izbirnik jezika"
+LANG_SELECT_PROMPT="Izberite želeni jezik:"
+LANG_CHANGED_TITLE="Jezik spremenjen"
+LANG_CHANGED_MSG="✓ Jezik uspešno spremenjen na: %s"
+
+SUCCESS_TITLE="Uspeh"
+ERROR_TITLE="Napaka"
+WARNING_TITLE="Opozorilo"
+INFO_TITLE="Informacije"

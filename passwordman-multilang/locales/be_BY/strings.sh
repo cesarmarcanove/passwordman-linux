@@ -1,0 +1,47 @@
+#!/bin/bash
+# Belarusian Translations v2.3
+
+TITLE="Менеджар Палітыкі Пароляў v2.3"
+MENU_VIEW_CURRENT="Прагляд бягучай канфігурацыі"
+MENU_SET_DEFAULT="Устанавіць палітыку па змаўчанні"
+MENU_SET_USER="Устанавіць палітыку для карыстальніка"
+MENU_ADVANCED="Пашыраная канфігурацыя"
+MENU_USER_STATUS="Прагляд статусу карыстальнікаў"
+MENU_APPLY_ALL="Ужыць да ўсіх карыстальнікаў"
+MENU_SECURITY="Прагляд палітык бяспекі"
+MENU_BACKUP="Стварыць рэзервовую копію"
+MENU_RESTORE="Аднавіць рэзервовую копію"
+MENU_SYSINFO="Інфармацыя пра сістэму"
+MENU_COMPLEXITY="Складанасць пароля"
+MENU_CHANGE_PASS="Змяніць пароль карыстальніка"
+MENU_CHANGE_ROOT_PASS="Змяніць пароль root"
+MENU_ABOUT="Пра праграму"
+MENU_LOG="Прагляд часопісу актыўнасцей"
+MENU_EXIT="Выхад"
+
+CHANGE_PASS_TITLE="Змяніць Пароль"
+CHANGE_PASS_USER="Выберыце карыстальніка:"
+CHANGE_PASS_NEW="Увядзіце новы пароль:"
+CHANGE_PASS_CONFIRM="Пацвердзіце пароль:"
+CHANGE_PASS_ROOT_WARNING="ПАПЯРЭДЖАННЕ! Вы змяняеце пароль root."
+CHANGE_PASS_SUCCESS="✓ Пароль паспяхова зменены для: %s"
+CHANGE_PASS_MISMATCH="✗ Паролі не супадаюць"
+CHANGE_PASS_EMPTY="✗ Пароль не можа быць пустым"
+CHANGE_PASS_WEAK="✗ Пароль занадто слабы. Выкарыстоўвайце больш надзейны"
+CHANGE_PASS_ERROR="✗ Памылка пры змене пароля"
+
+ABOUT_TITLE="Пра праграму v2.3"
+ABOUT_TEXT="Універсальны Менеджар Палітыкі Пароляў\n\nВерсія: 2.3\nПадтрымка некалькіх дыстрыбутываў\nШматмоўная падтрымка\nПоўныя функцыі кіравання\n\nРаспрацавана для Linux"
+
+WELCOME_TITLE="Сардэчна запрашаем у Менеджар v2.3"
+WELCOME_MSG="МЕНЕДЖАР ПАЛІТЫКІ ПАРОЛЯЎ v2.3\n\nДыстрыбутыў: %s\nМова: Беларуская\n\nМагчымасці:\n• Кіраванне палітыкамі\n• Змена пароляў\n• Шматмоўе\n• Рэзервовае капіраванне і аднаўленне"
+
+LANG_SELECT_TITLE="Выбар Мовы"
+LANG_SELECT_PROMPT="Выберыце пажаданую мову:"
+LANG_CHANGED_TITLE="Мова Зменена"
+LANG_CHANGED_MSG="✓ Мова паспяхова зменена на: %s"
+
+SUCCESS_TITLE="Поспех"
+ERROR_TITLE="Памылка"
+WARNING_TITLE="Папярэджанне"
+INFO_TITLE="Інфармацыя"

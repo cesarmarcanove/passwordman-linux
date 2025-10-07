@@ -1,0 +1,47 @@
+#!/bin/bash
+# Romanian Translations v2.3
+
+TITLE="Manager Politici Parolă v2.3"
+MENU_VIEW_CURRENT="Vizualizează setările curente"
+MENU_SET_DEFAULT="Setează politica implicită"
+MENU_SET_USER="Setează politică pentru utilizator"
+MENU_ADVANCED="Setări avansate"
+MENU_USER_STATUS="Vizualizează starea utilizatorilor"
+MENU_APPLY_ALL="Aplică tuturor utilizatorilor"
+MENU_SECURITY="Vizualizează politicile de securitate"
+MENU_BACKUP="Creează backup"
+MENU_RESTORE="Restaurează backup"
+MENU_SYSINFO="Informații sistem"
+MENU_COMPLEXITY="Complexitatea parolelor"
+MENU_CHANGE_PASS="Schimbă parola utilizatorului"
+MENU_CHANGE_ROOT_PASS="Schimbă parola root"
+MENU_ABOUT="Despre"
+MENU_LOG="Vizualizează jurnalul activităților"
+MENU_EXIT="Ieșire"
+
+CHANGE_PASS_TITLE="Schimbă Parola"
+CHANGE_PASS_USER="Selectați utilizatorul:"
+CHANGE_PASS_NEW="Introduceți parola nouă:"
+CHANGE_PASS_CONFIRM="Confirmați parola:"
+CHANGE_PASS_ROOT_WARNING="ATENȚIE! Schimbați parola root."
+CHANGE_PASS_SUCCESS="✓ Parola schimbată cu succes pentru: %s"
+CHANGE_PASS_MISMATCH="✗ Parolele nu coincid"
+CHANGE_PASS_EMPTY="✗ Parola nu poate fi goală"
+CHANGE_PASS_WEAK="✗ Parolă prea slabă. Folosiți o parolă mai puternică"
+CHANGE_PASS_ERROR="✗ Eroare la schimbarea parolei"
+
+ABOUT_TITLE="Despre v2.3"
+ABOUT_TEXT="Manager Universal Politici Parolă\n\nVersiune: 2.3\nSuport multi-distribuție\nSuport multi-lingv\nFuncții complete de management\n\nDezvoltat pentru Linux"
+
+WELCOME_TITLE="Bun venit în Manager v2.3"
+WELCOME_MSG="MANAGER POLITICI PAROLĂ v2.3\n\nDistribuție: %s\nLimbă: Română\n\nCaracteristici:\n• Management politici\n• Schimbare parole\n• Multi-lingv\n• Backup și restore"
+
+LANG_SELECT_TITLE="Selector Limbă"
+LANG_SELECT_PROMPT="Selectați limba preferată:"
+LANG_CHANGED_TITLE="Limbă Schimbată"
+LANG_CHANGED_MSG="✓ Limba schimbată cu succes la: %s"
+
+SUCCESS_TITLE="Succes"
+ERROR_TITLE="Eroare"
+WARNING_TITLE="Atenție"
+INFO_TITLE="Informații"

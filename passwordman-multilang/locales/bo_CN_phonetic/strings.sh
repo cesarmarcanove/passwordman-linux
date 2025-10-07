@@ -1,0 +1,47 @@
+#!/bin/bash
+# Tibetan Phonetic Translations v2.3
+
+TITLE="sang tsik si jü do dam v2.3"
+MENU_VIEW_CURRENT="da ta'i shyi dri la ta rog"
+MENU_SET_DEFAULT="ngön dri si jü zo rog"
+MENU_SET_USER="köl jé kyi si jü zo rog"
+MENU_ADVANCED="to rim shyi dri"
+MENU_USER_STATUS="köl jé né tang la ta rog"
+MENU_APPLY_ALL="köl jé yong la khyab drak"
+MENU_SECURITY="dé jik si jü la ta rog"
+MENU_BACKUP="yik nö tong rog"
+MENU_RESTORE="yik nö sel rog"
+MENU_SYSINFO="ma lak ki né tsul"
+MENU_COMPLEXITY="sang tsik ki sa tong"
+MENU_CHANGE_PASS="köl jé sang tsik jé rog"
+MENU_CHANGE_ROOT_PASS="root ki sang tsik jé rog"
+MENU_ABOUT="kor la"
+MENU_LOG="jé go yi zin to la ta rog"
+MENU_EXIT="chir dro"
+
+CHANGE_PASS_TITLE="sang tsik jé rog"
+CHANGE_PASS_USER="köl jé dem rog"
+CHANGE_PASS_NEW="sang tsik sar pa jung rog"
+CHANGE_PASS_CONFIRM="sang tsik ngo dzin rog"
+CHANGE_PASS_ROOT_WARNING="nyen da! khyed kyi root ki sang tsik jé shyin yod"
+CHANGE_PASS_SUCCESS="✓ sang tsik lek por jé zin: %s"
+CHANGE_PASS_MISMATCH="✗ sang tsik tün po me"
+CHANGE_PASS_EMPTY="✗ sang tsik tong par mi rung"
+CHANGE_PASS_WEAK="✗ sang tsik shün po che la sang tsik tob chen po bé chog rog"
+CHANGE_PASS_ERROR="✗ sang tsik jé kab nor trul"
+
+ABOUT_TITLE="kor la v2.3"
+ABOUT_TEXT="sang tsik si jü do dam chen mo\n\nton rim: 2.3\nkhyab pel mang por gyab kyor\nké yik mang por gyab kyor\ndo dam yö ché kyi nü pa\n\nLinux la zö pa"
+
+WELCOME_TITLE="do dam v2.3 la jön par ga su"
+WELCOME_MSG="sang tsik si jü do dam v2.3\n\nkhyab pel: %s\nké yik: bö yik\n\nkhyé ché:\n• si jü do dam\n• sang tsik jé len\n• ké yik mang po\n• yik nö tong len"
+
+LANG_SELECT_TITLE="ké yik dem druk"
+LANG_SELECT_PROMPT="men ngö kyi ké yik dem rog"
+LANG_CHANGED_TITLE="ké yik jé zin"
+LANG_CHANGED_MSG="✓ ké yik lek por jé zin: %s"
+
+SUCCESS_TITLE="lek drub"
+ERROR_TITLE="nor trul"
+WARNING_TITLE="nyen da"
+INFO_TITLE="né tsul"

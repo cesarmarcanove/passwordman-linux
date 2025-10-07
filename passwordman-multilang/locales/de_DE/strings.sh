@@ -1,0 +1,47 @@
+#!/bin/bash
+# German Translations v2.3
+
+TITLE="Passwortrichtlinien-Manager v2.3"
+MENU_VIEW_CURRENT="Aktuelle Konfiguration anzeigen"
+MENU_SET_DEFAULT="Standardrichtlinie festlegen"
+MENU_SET_USER="Richtlinie für Benutzer festlegen"
+MENU_ADVANCED="Erweiterte Konfiguration"
+MENU_USER_STATUS="Benutzerstatus anzeigen"
+MENU_APPLY_ALL="Auf alle Benutzer anwenden"
+MENU_SECURITY="Sicherheitsrichtlinien anzeigen"
+MENU_BACKUP="Backup erstellen"
+MENU_RESTORE="Backup wiederherstellen"
+MENU_SYSINFO="Systeminformationen"
+MENU_COMPLEXITY="Passwortkomplexität"
+MENU_CHANGE_PASS="Benutzerpasswort ändern"
+MENU_CHANGE_ROOT_PASS="Root-Passwort ändern"
+MENU_ABOUT="Über"
+MENU_LOG="Aktivitätsprotokoll anzeigen"
+MENU_EXIT="Beenden"
+
+CHANGE_PASS_TITLE="Passwort Ändern"
+CHANGE_PASS_USER="Benutzer auswählen:"
+CHANGE_PASS_NEW="Neues Passwort eingeben:"
+CHANGE_PASS_CONFIRM="Passwort bestätigen:"
+CHANGE_PASS_ROOT_WARNING="WARNUNG! Sie ändern das Root-Passwort."
+CHANGE_PASS_SUCCESS="✓ Passwort erfolgreich geändert für: %s"
+CHANGE_PASS_MISMATCH="✗ Passwörter stimmen nicht überein"
+CHANGE_PASS_EMPTY="✗ Passwort darf nicht leer sein"
+CHANGE_PASS_WEAK="✗ Passwort zu schwach. Verwenden Sie ein stärkeres"
+CHANGE_PASS_ERROR="✗ Fehler beim Passwortwechsel"
+
+ABOUT_TITLE="Über v2.3"
+ABOUT_TEXT="Universal Passwortrichtlinien-Manager\n\nVersion: 2.3\nMulti-Distribution Support\nMulti-Sprachen Support\nVollständige Verwaltungsfunktionen\n\nEntwickelt für Linux"
+
+WELCOME_TITLE="Willkommen beim Manager v2.3"
+WELCOME_MSG="PASSWORTRICHTLINIEN-MANAGER v2.3\n\nDistribution: %s\nSprache: Deutsch\n\nFunktionen:\n• Richtlinienverwaltung\n• Passwortänderungen\n• Multi-Sprache\n• Backup und Wiederherstellung"
+
+LANG_SELECT_TITLE="Sprachauswahl"
+LANG_SELECT_PROMPT="Wählen Sie Ihre bevorzugte Sprache:"
+LANG_CHANGED_TITLE="Sprache Geändert"
+LANG_CHANGED_MSG="✓ Sprache erfolgreich geändert zu: %s"
+
+SUCCESS_TITLE="Erfolg"
+ERROR_TITLE="Fehler"
+WARNING_TITLE="Warnung"
+INFO_TITLE="Information"

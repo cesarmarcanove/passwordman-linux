@@ -1,0 +1,47 @@
+#!/bin/bash
+# Polish Translations v2.3
+
+TITLE="Menedżer Polityki Haseł v2.3"
+MENU_VIEW_CURRENT="Wyświetl bieżące ustawienia"
+MENU_SET_DEFAULT="Ustaw domyślną politykę"
+MENU_SET_USER="Ustaw politykę dla użytkownika"
+MENU_ADVANCED="Zaawansowane ustawienia"
+MENU_USER_STATUS="Wyświetl status użytkowników"
+MENU_APPLY_ALL="Zastosuj do wszystkich użytkowników"
+MENU_SECURITY="Wyświetl polityki bezpieczeństwa"
+MENU_BACKUP="Utwórz kopię zapasową"
+MENU_RESTORE="Przywróć kopię zapasową"
+MENU_SYSINFO="Informacje o systemie"
+MENU_COMPLEXITY="Złożoność haseł"
+MENU_CHANGE_PASS="Zmień hasło użytkownika"
+MENU_CHANGE_ROOT_PASS="Zmień hasło root"
+MENU_ABOUT="O programie"
+MENU_LOG="Wyświetl dziennik aktywności"
+MENU_EXIT="Wyjdź"
+
+CHANGE_PASS_TITLE="Zmień Hasło"
+CHANGE_PASS_USER="Wybierz użytkownika:"
+CHANGE_PASS_NEW="Wprowadź nowe hasło:"
+CHANGE_PASS_CONFIRM="Potwierdź hasło:"
+CHANGE_PASS_ROOT_WARNING="OSTRZEŻENIE! Zmieniasz hasło root."
+CHANGE_PASS_SUCCESS="✓ Hasło zostało pomyślnie zmienione dla: %s"
+CHANGE_PASS_MISMATCH="✗ Hasła nie pasują do siebie"
+CHANGE_PASS_EMPTY="✗ Hasło nie może być puste"
+CHANGE_PASS_WEAK="✗ Hasło zbyt słabe. Użyj silniejszego hasła"
+CHANGE_PASS_ERROR="✗ Błąd podczas zmiany hasła"
+
+ABOUT_TITLE="O programie v2.3"
+ABOUT_TEXT="Uniwersalny Menedżer Polityki Haseł\n\nWersja: 2.3\nWsparcie wielu dystrybucji\nWielojęzyczne wsparcie\nPełne funkcje zarządzania\n\nOpracowano dla Linux"
+
+WELCOME_TITLE="Witamy w Menedżerze v2.3"
+WELCOME_MSG="MENEDŻER POLITYKI HASEŁ v2.3\n\nDystrybucja: %s\nJęzyk: Polski\n\nFunkcje:\n• Zarządzanie politykami\n• Zmiana haseł\n• Wielojęzyczność\n• Kopia zapasowa i przywracanie"
+
+LANG_SELECT_TITLE="Wybór Języka"
+LANG_SELECT_PROMPT="Wybierz preferowany język:"
+LANG_CHANGED_TITLE="Język Zmieniony"
+LANG_CHANGED_MSG="✓ Język został pomyślnie zmieniony na: %s"
+
+SUCCESS_TITLE="Sukces"
+ERROR_TITLE="Błąd"
+WARNING_TITLE="Ostrzeżenie"
+INFO_TITLE="Informacja"

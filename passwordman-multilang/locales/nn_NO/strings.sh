@@ -1,0 +1,47 @@
+#!/bin/bash
+# Norwegian Nynorsk Translations v2.3
+
+TITLE="Passordpolitikk Handsamar v2.3"
+MENU_VIEW_CURRENT="Vis noverande konfigurasjon"
+MENU_SET_DEFAULT="Set standard politikk"
+MENU_SET_USER="Set politikk for brukar"
+MENU_ADVANCED="Avansert konfigurasjon"
+MENU_USER_STATUS="Vis brukarstatus"
+MENU_APPLY_ALL="Bruk på alle brukarar"
+MENU_SECURITY="Vis tryggleikspolitikkar"
+MENU_BACKUP="Opprett tryggleikskopi"
+MENU_RESTORE="Gjenopprett tryggleikskopi"
+MENU_SYSINFO="Systeminformasjon"
+MENU_COMPLEXITY="Passordkompleksitet"
+MENU_CHANGE_PASS="Endre brukarpassord"
+MENU_CHANGE_ROOT_PASS="Endre root-passord"
+MENU_ABOUT="Om"
+MENU_LOG="Vis aktivitetslogg"
+MENU_EXIT="Avslutt"
+
+CHANGE_PASS_TITLE="Endre Passord"
+CHANGE_PASS_USER="Vel brukar:"
+CHANGE_PASS_NEW="Skriv inn nytt passord:"
+CHANGE_PASS_CONFIRM="Stadfest passord:"
+CHANGE_PASS_ROOT_WARNING="ÅTVARING! Du endrar root-passordet."
+CHANGE_PASS_SUCCESS="✓ Passord endra for: %s"
+CHANGE_PASS_MISMATCH="✗ Passorda stemmer ikkje"
+CHANGE_PASS_EMPTY="✗ Passord kan ikkje vera tomt"
+CHANGE_PASS_WEAK="✗ Passord for svakt. Bruk eit sterkare"
+CHANGE_PASS_ERROR="✗ Feil ved passordending"
+
+ABOUT_TITLE="Om v2.3"
+ABOUT_TEXT="Universell Passordpolitikk Handsamar\n\nVersjon: 2.3\nStøtte for fleire distribusjonar\nFleirspråkleg støtte\nFullstendige administrasjonsfunksjonar\n\nUtvikla for Linux"
+
+WELCOME_TITLE="Velkommen til Handsamar v2.3"
+WELCOME_MSG="PASSORDPOLITIKK HANDSAMAR v2.3\n\nDistribusjon: %s\nSpråk: Norsk Nynorsk\n\nFunksjonar:\n• Politikkadministrasjon\n• Passordendingar\n• Fleirspråkleg\n• Tryggleikskopiering og gjenoppretting"
+
+LANG_SELECT_TITLE="Språkveljar"
+LANG_SELECT_PROMPT="Vel føretrekt språk:"
+LANG_CHANGED_TITLE="Språk Endra"
+LANG_CHANGED_MSG="✓ Språk endra til: %s"
+
+SUCCESS_TITLE="Suksess"
+ERROR_TITLE="Feil"
+WARNING_TITLE="Åtvaring"
+INFO_TITLE="Informasjon"

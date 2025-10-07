@@ -1,0 +1,47 @@
+#!/bin/bash
+# Hungarian Translations v2.3
+
+TITLE="Jelszóházirend Kezelő v2.3"
+MENU_VIEW_CURRENT="Aktuális beállítások megtekintése"
+MENU_SET_DEFAULT="Alapértelmezett házirend beállítása"
+MENU_SET_USER="Felhasználói házirend beállítása"
+MENU_ADVANCED="Speciális beállítások"
+MENU_USER_STATUS="Felhasználói állapot megtekintése"
+MENU_APPLY_ALL="Alkalmazás minden felhasználóra"
+MENU_SECURITY="Biztonsági házirendek megtekintése"
+MENU_BACKUP="Biztonsági mentés készítése"
+MENU_RESTORE="Biztonsági mentés visszaállítása"
+MENU_SYSINFO="Rendszerinformáció"
+MENU_COMPLEXITY="Jelszó bonyolultság"
+MENU_CHANGE_PASS="Felhasználói jelszó megváltoztatása"
+MENU_CHANGE_ROOT_PASS="Root jelszó megváltoztatása"
+MENU_ABOUT="Névjegy"
+MENU_LOG="Tevékenységnapló megtekintése"
+MENU_EXIT="Kilépés"
+
+CHANGE_PASS_TITLE="Jelszó Megváltoztatása"
+CHANGE_PASS_USER="Válassza ki a felhasználót:"
+CHANGE_PASS_NEW="Adja meg az új jelszót:"
+CHANGE_PASS_CONFIRM="Erősítse meg a jelszót:"
+CHANGE_PASS_ROOT_WARNING="FIGYELMEZTETÉS! Ön a root jelszavát változtatja meg."
+CHANGE_PASS_SUCCESS="✓ Jelszó sikeresen megváltoztatva: %s"
+CHANGE_PASS_MISMATCH="✗ A jelszavak nem egyeznek"
+CHANGE_PASS_EMPTY="✗ A jelszó nem lehet üres"
+CHANGE_PASS_WEAK="✗ Túl gyenge jelszó. Használjon erősebb jelszót"
+CHANGE_PASS_ERROR="✗ Hiba a jelszó megváltoztatásakor"
+
+ABOUT_TITLE="Névjegy v2.3"
+ABOUT_TEXT="Univerzális Jelszóházirend Kezelő\n\nVerzió: 2.3\nTöbb disztribúció támogatása\nTöbbnyelvű támogatás\nTeljes körű kezelési funkciók\n\nFejlesztve Linuxra"
+
+WELCOME_TITLE="Üdvözöljük a Kezelőben v2.3"
+WELCOME_MSG="JELSZÓHÁZIREND KEZELŐ v2.3\n\nDisztribúció: %s\nNyelv: Magyar\n\nJellemzők:\n• Házirend kezelés\n• Jelszóváltoztatás\n• Többnyelvűség\n• Biztonsági mentés és visszaállítás"
+
+LANG_SELECT_TITLE="Nyelv Választó"
+LANG_SELECT_PROMPT="Válassza ki az előnyben részesített nyelvet:"
+LANG_CHANGED_TITLE="Nyelv Megváltoztatva"
+LANG_CHANGED_MSG="✓ Nyelv sikeresen megváltoztatva: %s"
+
+SUCCESS_TITLE="Siker"
+ERROR_TITLE="Hiba"
+WARNING_TITLE="Figyelmeztetés"
+INFO_TITLE="Információ"

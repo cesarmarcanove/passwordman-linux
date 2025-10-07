@@ -1,0 +1,47 @@
+#!/bin/bash
+# Sanskrit Translations v2.3
+
+TITLE="गूढपदनीतिव्यवस्थापकः v2.3"
+MENU_VIEW_CURRENT="वर्तमानसंयोजनं दृश्यताम्"
+MENU_SET_DEFAULT="पूर्वनियोजितनीतिः संयोज्यताम्"
+MENU_SET_USER="उपयोक्तृणां नीतिः संयोज्यताम्"
+MENU_ADVANCED="प्रगतसंयोजनम्"
+MENU_USER_STATUS="उपयोक्तृस्थितिः दृश्यताम्"
+MENU_APPLY_ALL="सर्वेभ्यः उपयोक्तृभ्यः लागूक्रियताम्"
+MENU_SECURITY="सुरक्षानीतयः दृश्यन्ताम्"
+MENU_BACKUP="सुरक्षाप्रतिबिम्बं निर्मीयताम्"
+MENU_RESTORE="सुरक्षाप्रतिबिम्बं पुनःस्थाप्यताम्"
+MENU_SYSINFO="तन्त्रांशसूचना"
+MENU_COMPLEXITY="गूढपदसङ्क्लिष्टता"
+MENU_CHANGE_PASS="उपयोक्तृगूढपदं परिवर्त्यताम्"
+MENU_CHANGE_ROOT_PASS="मूलगूढपदं परिवर्त्यताम्"
+MENU_ABOUT="विषये"
+MENU_LOG="कार्यलेखः दृश्यताम्"
+MENU_EXIT="निर्गच्छतु"
+
+CHANGE_PASS_TITLE="गूढपदं परिवर्त्यताम्"
+CHANGE_PASS_USER="उपयोक्ता चीयताम्:"
+CHANGE_PASS_NEW="नवं गूढपदं प्रवेश्यताम्:"
+CHANGE_PASS_CONFIRM="गूढपदं पुष्टीक्रियताम्:"
+CHANGE_PASS_ROOT_WARNING="सावधानम्! भवान् मूलगूढपदं परिवर्तयति।"
+CHANGE_PASS_SUCCESS="✓ गूढपदं सफलतया परिवर्तितम्: %s"
+CHANGE_PASS_MISMATCH="✗ गूढपदानि न समानानि"
+CHANGE_PASS_EMPTY="✗ गूढपदं रिक्तं न भवेत्"
+CHANGE_PASS_WEAK="✗ गूढपदं अतीव दुर्बलम्। दृढतरं गूढपदं उपयुज्यताम्"
+CHANGE_PASS_ERROR="✗ गूढपदपरिवर्तने दोषः"
+
+ABOUT_TITLE="विषये v2.3"
+ABOUT_TEXT="सार्वत्रिकगूढपदनीतिव्यवस्थापकः\n\nसंस्करणम्: 2.3\nबहुवितरणसमर्थनम्\nबहुभाषासमर्थनम्\nपूर्णव्यवस्थापनकार्याणि\n\nलिनक्स्-निमित्तं विकसितम्"
+
+WELCOME_TITLE="व्यवस्थापक v2.3 प्रति स्वागतम्"
+WELCOME_MSG="गूढपदनीतिव्यवस्थापकः v2.3\n\nवितरणम्: %s\nभाषा: संस्कृतम्\n\nविशेषताः:\n• नीतिव्यवस्थापनम्\n• गूढपदपरिवर्तनम्\n• बहुभाषा\n• सुरक्षाप्रतिबिम्बं पुनःस्थापनं च"
+
+LANG_SELECT_TITLE="भाषाचयनकर्ता"
+LANG_SELECT_PROMPT="अभिमतभाषा चीयताम्:"
+LANG_CHANGED_TITLE="भाषा परिवर्तिता"
+LANG_CHANGED_MSG="✓ भाषा सफलतया परिवर्तिता: %s"
+
+SUCCESS_TITLE="सफलता"
+ERROR_TITLE="दोषः"
+WARNING_TITLE="सावधानम्"
+INFO_TITLE="सूचना"

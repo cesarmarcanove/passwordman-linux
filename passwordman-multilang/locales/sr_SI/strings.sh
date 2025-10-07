@@ -1,0 +1,47 @@
+#!/bin/bash
+# Serbian Translations v2.3
+
+TITLE="Менаџер политике лозинки v2.3"
+MENU_VIEW_CURRENT="Погледај тренутна подешавања"
+MENU_SET_DEFAULT="Подеси подразумевану политику"
+MENU_SET_USER="Подеси политику за корисника"
+MENU_ADVANCED="Напредна подешавања"
+MENU_USER_STATUS="Погледај статус корисника"
+MENU_APPLY_ALL="Примени на све кориснике"
+MENU_SECURITY="Погледај безбедносне политике"
+MENU_BACKUP="Направи резервну копију"
+MENU_RESTORE="Врати резервну копију"
+MENU_SYSINFO="Информације о систему"
+MENU_COMPLEXITY="Сложеност лозинки"
+MENU_CHANGE_PASS="Промени корисничку лозинку"
+MENU_CHANGE_ROOT_PASS="Промени root лозинку"
+MENU_ABOUT="О програму"
+MENU_LOG="Погледај дневник активности"
+MENU_EXIT="Изађи"
+
+CHANGE_PASS_TITLE="Промени лозинку"
+CHANGE_PASS_USER="Изаберите корисника:"
+CHANGE_PASS_NEW="Унесите нову лозинку:"
+CHANGE_PASS_CONFIRM="Потврдите лозинку:"
+CHANGE_PASS_ROOT_WARNING="УПОЗОРЕЊЕ! Мењате root лозинку."
+CHANGE_PASS_SUCCESS="✓ Лозинка успешно промењена за: %s"
+CHANGE_PASS_MISMATCH="✗ Лозинке се не поклапају"
+CHANGE_PASS_EMPTY="✗ Лозинка не може бити празна"
+CHANGE_PASS_WEAK="✗ Лозинка преслаба. Користите јачу лозинку"
+CHANGE_PASS_ERROR="✗ Грешка при промени лозинке"
+
+ABOUT_TITLE="О програму v2.3"
+ABOUT_TEXT="Универзални менаџер политике лозинки\n\nВерзија: 2.3\nПодршка за више дистрибуција\nВишејезичка подршка\nПуне функције управљања\n\nРазвијено за Линукс"
+
+WELCOME_TITLE="Добродошли у Менаџер v2.3"
+WELCOME_MSG="МЕНАЏЕР ПОЛИТИКЕ ЛОЗИНКИ v2.3\n\nДистрибуција: %s\nЈезик: Српски\n\nКарактеристике:\n• Управљање политикама\n• Промена лозинки\n• Вишејезичност\n• Резервна копија и враћање"
+
+LANG_SELECT_TITLE="Бирач језика"
+LANG_SELECT_PROMPT="Изаберите жељени језик:"
+LANG_CHANGED_TITLE="Језик промењен"
+LANG_CHANGED_MSG="✓ Језик успешно промењен на: %s"
+
+SUCCESS_TITLE="Успех"
+ERROR_TITLE="Грешка"
+WARNING_TITLE="Упозорење"
+INFO_TITLE="Информације"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Czech Translations v2.3
+
+TITLE="Správce Zásad Hesel v2.3"
+MENU_VIEW_CURRENT="Zobrazit aktuální nastavení"
+MENU_SET_DEFAULT="Nastavit výchozí zásady"
+MENU_SET_USER="Nastavit zásady pro uživatele"
+MENU_ADVANCED="Pokročilé nastavení"
+MENU_USER_STATUS="Zobrazit stav uživatelů"
+MENU_APPLY_ALL="Použít na všechny uživatele"
+MENU_SECURITY="Zobrazit bezpečnostní zásady"
+MENU_BACKUP="Vytvořit zálohu"
+MENU_RESTORE="Obnovit zálohu"
+MENU_SYSINFO="Systémové informace"
+MENU_COMPLEXITY="Složitost hesel"
+MENU_CHANGE_PASS="Změnit heslo uživatele"
+MENU_CHANGE_ROOT_PASS="Změnit heslo root"
+MENU_ABOUT="O aplikaci"
+MENU_LOG="Zobrazit záznam činnosti"
+MENU_EXIT="Ukončit"
+
+CHANGE_PASS_TITLE="Změnit Heslo"
+CHANGE_PASS_USER="Vyberte uživatele:"
+CHANGE_PASS_NEW="Zadejte nové heslo:"
+CHANGE_PASS_CONFIRM="Potvrďte heslo:"
+CHANGE_PASS_ROOT_WARNING="VAROVÁNÍ! Měníte heslo root."
+CHANGE_PASS_SUCCESS="✓ Heslo úspěšně změněno pro: %s"
+CHANGE_PASS_MISMATCH="✗ Hesla se neshodují"
+CHANGE_PASS_EMPTY="✗ Heslo nemůže být prázdné"
+CHANGE_PASS_WEAK="✗ Heslo je příliš slabé. Použijte silnější heslo"
+CHANGE_PASS_ERROR="✗ Chyba při změně hesla"
+
+ABOUT_TITLE="O aplikaci v2.3"
+ABOUT_TEXT="Univerzální Správce Zásad Hesel\n\nVerze: 2.3\nPodpora více distribucí\nVícejazyčná podpora\nPlné funkce správy\n\nVyvinuto pro Linux"
+
+WELCOME_TITLE="Vítejte ve Správci v2.3"
+WELCOME_MSG="SPRÁVCE ZÁSAD HESEL v2.3\n\nDistribuce: %s\nJazyk: Čeština\n\nFunkce:\n• Správa zásad\n• Změna hesel\n• Vícejazyknost\n• Zálohování a obnovení"
+
+LANG_SELECT_TITLE="Výběr Jazyka"
+LANG_SELECT_PROMPT="Vyberte preferovaný jazyk:"
+LANG_CHANGED_TITLE="Jazyk Změněn"
+LANG_CHANGED_MSG="✓ Jazyk byl úspěšně změněn na: %s"
+
+SUCCESS_TITLE="Úspěch"
+ERROR_TITLE="Chyba"
+WARNING_TITLE="Varování"
+INFO_TITLE="Informace"

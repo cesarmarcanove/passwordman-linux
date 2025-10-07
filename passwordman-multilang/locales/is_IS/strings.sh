@@ -1,0 +1,47 @@
+#!/bin/bash
+# Icelandic Translations v2.3
+
+TITLE="Lykilorðastefnu Stjórnandi v2.3"
+MENU_VIEW_CURRENT="Skoða núverandi stillingar"
+MENU_SET_DEFAULT="Setja sjálfgefna stefnu"
+MENU_SET_USER="Setja stefnu fyrir notanda"
+MENU_ADVANCED="Ítarlegar stillingar"
+MENU_USER_STATUS="Skoða notandastöðu"
+MENU_APPLY_ALL="Beita á alla notendur"
+MENU_SECURITY="Skoða öryggisstefnur"
+MENU_BACKUP="Búa til öryggisafrit"
+MENU_RESTORE="Endurheimta öryggisafrit"
+MENU_SYSINFO="Kerfisupplýsingar"
+MENU_COMPLEXITY="Lykilorðaflækjustig"
+MENU_CHANGE_PASS="Breyta notanda lykilorði"
+MENU_CHANGE_ROOT_PASS="Breyta root lykilorði"
+MENU_ABOUT="Um"
+MENU_LOG="Skoða aktivitetslogg"
+MENU_EXIT="Hætta"
+
+CHANGE_PASS_TITLE="Breyta Lykilorði"
+CHANGE_PASS_USER="Veldu notanda:"
+CHANGE_PASS_NEW="Sláðu inn nýtt lykilorð:"
+CHANGE_PASS_CONFIRM="Staðfestu lykilorð:"
+CHANGE_PASS_ROOT_WARNING="VIÐVÖRUN! Þú ert að breyta root lykilorðinu."
+CHANGE_PASS_SUCCESS="✓ Lykilorð breytt fyrir: %s"
+CHANGE_PASS_MISMATCH="✗ Lykilorðin passa ekki"
+CHANGE_PASS_EMPTY="✗ Lykilorð getur ekki verið autt"
+CHANGE_PASS_WEAK="✗ Lykilorð of veikt. Notaðu sterkt lykilorð"
+CHANGE_PASS_ERROR="✗ Villa við lykilorðabreytingu"
+
+ABOUT_TITLE="Um v2.3"
+ABOUT_TEXT="Alhliða Lykilorðastefnu Stjórnandi\n\nÚtgáfa: 2.3\nFjöl-útgáfu stuðningur\nFjöl-tungumála stuðningur\nFullar stjórnunar aðgerðir\n\nÞróað fyrir Linux"
+
+WELCOME_TITLE="Velkomin í Stjórnandann v2.3"
+WELCOME_MSG="LYKILORÐASTEFNU STJÓRNANDI v2.3\n\nÚtgáfa: %s\nTungumál: Íslenska\n\nEiginleikar:\n• Stefnum stjórnun\n• Lykilorðabreytingar\n• Fjöl-tungumála\n• Öryggisafrit og endurheimt"
+
+LANG_SELECT_TITLE="Tungumála Val"
+LANG_SELECT_PROMPT="Veldu þitt valda tungumál:"
+LANG_CHANGED_TITLE="Tungumál Breytt"
+LANG_CHANGED_MSG="✓ Tungumál breytt í: %s"
+
+SUCCESS_TITLE="Tókst"
+ERROR_TITLE="Villa"
+WARNING_TITLE="Viðvörun"
+INFO_TITLE="Upplýsingar"

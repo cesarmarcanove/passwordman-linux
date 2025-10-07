@@ -1,0 +1,47 @@
+#!/bin/bash
+# Persian Latin Translations v2.3
+
+TITLE="Password Policy Manager v2.3"
+MENU_VIEW_CURRENT="Didane Tanzimate Feli"
+MENU_SET_DEFAULT="Tanzim Kardane Siasate Pishfarz"
+MENU_SET_USER="Tanzim Kardane Siasat baraye Karabar"
+MENU_ADVANCED="Tanzimate Pishrafte"
+MENU_USER_STATUS="Didane Vaziyate Karbaran"
+MENU_APPLY_ALL="Ejra Kardan be Hameye Karbaran"
+MENU_SECURITY="Didane Siasate Amniyati"
+MENU_BACKUP="Ejade Nuskheye Poshtibani"
+MENU_RESTORE="Bargardandane Nuskhe"
+MENU_SYSINFO="Ettelaate System"
+MENU_COMPLEXITY="Paychidegie Password"
+MENU_CHANGE_PASS="Taghyire Ramze Karabar"
+MENU_CHANGE_ROOT_PASS="Taghyire Ramze Root"
+MENU_ABOUT="Darbare"
+MENU_LOG="Didane Loge Faaliyatha"
+MENU_EXIT="Khoruj"
+
+CHANGE_PASS_TITLE="Taghyire Password"
+CHANGE_PASS_USER="Karbar ra Entekhab Konid:"
+CHANGE_PASS_NEW="Ramze Jadid ra Vared Konid:"
+CHANGE_PASS_CONFIRM="Password ra Tasdiq Konid:"
+CHANGE_PASS_ROOT_WARNING="HOSHDAR! Shoma Dar Hale Taghyire Ramze Root Hastid."
+CHANGE_PASS_SUCCESS="✓ Password ba Movaffaghiat Taghyir Yaft baraye: %s"
+CHANGE_PASS_MISMATCH="✗ Password ha movafeq Nistand"
+CHANGE_PASS_EMPTY="✗ Password nemitavanad Khali Bashad"
+CHANGE_PASS_WEAK="✗ Password Kheili Zaeif ast. Az Password Ghavi Tari Estefade Konid"
+CHANGE_PASS_ERROR="✗ Khatā dar Taghyire Password"
+
+ABOUT_TITLE="Darbare v2.3"
+ABOUT_TEXT="Manager Umumie Siasate Password\n\nVersion: 2.3\nDastgirie Chand Distributioni\nDastgirie Chand Zaboni\nKhasosiathaye Kamelie Modiriat\n\nBaraye Linux Tosee Shode"
+
+WELCOME_TITLE="Be Manager v2.3 Khosh Amadid"
+WELCOME_MSG="Manager Siasate Password v2.3\n\nDistribution: %s\nZaban: Farsi\n\nVijegiha:\n• Modiriate Siasat\n• Taghyire Password\n• Chand Zaboni\n• Backup Giri va Bargardandan"
+
+LANG_SELECT_TITLE="Entekhab Konandeye Zaban"
+LANG_SELECT_PROMPT="Zaban Morede Nazar Khod ra Entekhab Konid:"
+LANG_CHANGED_TITLE="Zaban Taghyir Yaft"
+LANG_CHANGED_MSG="✓ Zaban ba Movaffaghiat Taghyir Yaft be: %s"
+
+SUCCESS_TITLE="Movaffaghiat"
+ERROR_TITLE="Khatā"
+WARNING_TITLE="Hoshdar"
+INFO_TITLE="Ettelaat"

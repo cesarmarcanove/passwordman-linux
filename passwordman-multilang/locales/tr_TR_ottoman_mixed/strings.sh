@@ -1,0 +1,47 @@
+#!/bin/bash
+# Ottoman Turkish Mixed Script v2.3
+
+TITLE="رمز سياسة مدیر (Remz Siyaset Müdür) v2.3"
+MENU_VIEW_CURRENT="حال تنظیمات گور (Hal Tanzimat Gör)"
+MENU_SET_DEFAULT="اصلي سياسة تنظیمله (Aslî Siyaset Tanzimle)"
+MENU_SET_USER="استجی سیاسیسی تنظیمله (Üstâcı Siyaseti Tanzimle)"
+MENU_ADVANCED="ایلری تنظیمات (İleri Tanzimat)"
+MENU_USER_STATUS="استجی حالینی گور (Üstâcı Halini Gör)"
+MENU_APPLY_ALL="همه استجیلره تطبیق ایت (Heme Üstâcılara Tatbik Et)"
+MENU_SECURITY="امنیت سیاسیلهری گور (Eminiyet Siyasetleri Gör)"
+MENU_BACKUP="یمک اولوشتور (Yedek Oluştur)"
+MENU_RESTORE="یمکی گرای قوی (Yedeki Geri Koy)"
+MENU_SYSINFO="سیستم معلوماتی (Sistem Malûmatı)"
+MENU_COMPLEXITY="رمز قارماشقلیغی (Remz Karışıklığı)"
+MENU_CHANGE_PASS="استجی رمزی دییشدر (Üstâcı Remzi Değiştir)"
+MENU_CHANGE_ROOT_PASS="رئیس رمزی دییشدر (Reis Remzi Değiştir)"
+MENU_ABOUT="حقنده (Hakkında)"
+MENU_LOG="فعّالیت گونلوگو گور (Faaliyet Günlüğü Gör)"
+MENU_EXIT="چقیش (Çıkış)"
+
+CHANGE_PASS_TITLE="رمزی دییشدر (Remzi Değiştir)"
+CHANGE_PASS_USER="استجی سچ (Üstâcı Seç):"
+CHANGE_PASS_NEW="ینی رمز گیر (Yeni Remz Gir):"
+CHANGE_PASS_CONFIRM="رمزی تصدیق ایت (Remzi Tasdik Et):"
+CHANGE_PASS_ROOT_WARNING="ایقتار (İhtar)! رئیس رمزی دییشدیریورسونوز (Reis remzi değiştiriyorsunuz)."
+CHANGE_PASS_SUCCESS="✓ رمز باشاری ایله دییشدیریلدی (Remz başarı ile değiştirildi): %s"
+CHANGE_PASS_MISMATCH="✗ رمزلر اویوشمور (Remzler uyuşmaz)"
+CHANGE_PASS_EMPTY="✗ رمز بوش اولاماز (Remz boş olamaz)"
+CHANGE_PASS_WEAK="✗ رمز چوق ضعیف (Remz çok zayıf). داها گوجلو رمز ایستفاده ایت (Daha güçlü remz istifade et)"
+CHANGE_PASS_ERROR="✗ رمز دییشدیرمه خطاسی (Remz değiştirme hatası)"
+
+ABOUT_TITLE="حقنده (Hakkında) v2.3"
+ABOUT_TEXT="عالمی رمز سياسة مدیر (Âlemî Remz Siyaset Müdür)\n\nنسخه (Nüsḫa): 2.3\nچوق داغیتم دستگی (Çok dağıtım destegi)\nچوق دیل دستگی (Çok dil destegi)\nتام مدیریت اوزللیکلری (Tam idare hususiyetleri)\n\nلینوکس اوجون اینشا ایدیلدی (Linux için inşa edildi)"
+
+WELCOME_TITLE="مدیر (Müdür) v2.3 خوش گلدینیز (Hoş geldiniz)"
+WELCOME_MSG="رمز سياسة مدیر (Remz Siyaset Müdür) v2.3\n\nداغیتم (Dağıtım): %s\nدیل (Dil): عثمانلیجه (Osmanlıca)\n\nاوزللیکلر (Hususiyetler):\n• سياسة مدیریتی (Siyaset idaresi)\n• رمز دییشیکلیگی (Remz değişikliği)\n• چوق دیل (Çok dil)\n• یمک و گرای قویما (Yedek ve geri koyma)"
+
+LANG_SELECT_TITLE="دیل سچیجی (Dil Seçici)"
+LANG_SELECT_PROMPT="ترجیح ایتدیگینیز دیلی سچین (Tercih ettiğiniz dili seçin):"
+LANG_CHANGED_TITLE="دیل دییشدیریلدی (Dil Değiştirildi)"
+LANG_CHANGED_MSG="✓ دیل باشاری ایله دییشدیریلدی (Dil başarı ile değiştirildi): %s"
+
+SUCCESS_TITLE="باشاری (Başarı)"
+ERROR_TITLE="خطا (Hata)"
+WARNING_TITLE="ایقتار (İhtar)"
+INFO_TITLE="معلومات (Malûmat)"

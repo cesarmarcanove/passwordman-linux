@@ -1,0 +1,47 @@
+#!/bin/bash
+# Ottoman Turkish Translations v2.3
+
+TITLE="رمز سياسة مدير v2.3"
+MENU_VIEW_CURRENT="حال تنظیمات گور"
+MENU_SET_DEFAULT="اصلي سياسة تنظیمله"
+MENU_SET_USER="استجی سیاسیسی تنظیمله"
+MENU_ADVANCED="ایلری تنظیمات"
+MENU_USER_STATUS="استجی حالینی گور"
+MENU_APPLY_ALL="همه استجیلره تطبیق ایت"
+MENU_SECURITY="امنیت سیاسیلهری گور"
+MENU_BACKUP="یمک اولوشتور"
+MENU_RESTORE="یمکی گرای قوی"
+MENU_SYSINFO="سیستم معلوماتی"
+MENU_COMPLEXITY="رمز قارماشقلیغی"
+MENU_CHANGE_PASS="استجی رمزی دییشدر"
+MENU_CHANGE_ROOT_PASS="رئیس رمزی دییشدر"
+MENU_ABOUT="حقنده"
+MENU_LOG="فعّالیت گونلوگو گور"
+MENU_EXIT="چقیش"
+
+CHANGE_PASS_TITLE="رمزی دییشدر"
+CHANGE_PASS_USER="استجی سچ:"
+CHANGE_PASS_NEW="ینی رمز گیر:"
+CHANGE_PASS_CONFIRM="رمزی تصدیق ایت:"
+CHANGE_PASS_ROOT_WARNING="ایقتار! رئیس رمزی دییشدیریورسونوز."
+CHANGE_PASS_SUCCESS="✓ رمز باشاری ایله دییشدیریلدی: %s"
+CHANGE_PASS_MISMATCH="✗ رمزلر اویوشمور"
+CHANGE_PASS_EMPTY="✗ رمز بوش اولاماز"
+CHANGE_PASS_WEAK="✗ رمز چوق ضعیف. داها گوجلو رمز ایستفاده ایت"
+CHANGE_PASS_ERROR="✗ رمز دییشدیرمه خطاسی"
+
+ABOUT_TITLE="حقنده v2.3"
+ABOUT_TEXT="عالمی رمز سياسة مدير\n\nنسخه: 2.3\nچوق داغیتم دستگی\nچوق دیل دستگی\nتام مدیریت اوزللیکلری\n\nلینوکس اوجون اینشا ایدیلدی"
+
+WELCOME_TITLE="مدیر v2.3 خوش گلدینیز"
+WELCOME_MSG="رمز سياسة مدير v2.3\n\nداغیتم: %s\nدیل: عثمانلیجه\n\nاوزللیکلر:\n• سياسة مدیریتی\n• رمز دییشیکلیگی\n• چوق دیل\n• یمک و گرای قویما"
+
+LANG_SELECT_TITLE="دیل سچیجی"
+LANG_SELECT_PROMPT="ترجیح ایتدیگینیز دیلی سچین:"
+LANG_CHANGED_TITLE="دیل دییشدیریلدی"
+LANG_CHANGED_MSG="✓ دیل باشاری ایله دییشدیریلدی: %s"
+
+SUCCESS_TITLE="باشاری"
+ERROR_TITLE="خطا"
+WARNING_TITLE="ایقتار"
+INFO_TITLE="معلومات"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Latin Vatican Translations v2.3
+
+TITLE="Administrator Regiminis Signorum v2.3"
+MENU_VIEW_CURRENT="Inspice institutiones currentes"
+MENU_SET_DEFAULT="Constituite regimen praefinitum"
+MENU_SET_USER="Constituite regimen utentis"
+MENU_ADVANCED="Institutiones provectae"
+MENU_USER_STATUS="Inspice statum utentium"
+MENU_APPLY_ALL="Adhibe omnibus utentibus"
+MENU_SECURITY="Inspice regimina securitatis"
+MENU_BACKUP="Crea copiam securitatis"
+MENU_RESTORE="Repone copiam"
+MENU_SYSINFO="Nuntii systematis"
+MENU_COMPLEXITY="Complicatio signorum"
+MENU_CHANGE_PASS="Immuta signum utentis"
+MENU_CHANGE_ROOT_PASS="Immuta signum principalis"
+MENU_ABOUT="Circa"
+MENU_LOG="Inspice commentarium actionum"
+MENU_EXIT="Discede"
+
+CHANGE_PASS_TITLE="Immuta Signum"
+CHANGE_PASS_USER="Selige utentem:"
+CHANGE_PASS_NEW="Indue novum signum:"
+CHANGE_PASS_CONFIRM="Ratifica signum:"
+CHANGE_PASS_ROOT_WARNING="MONITIO! Signum principalis immutas."
+CHANGE_PASS_SUCCESS="✓ Signum feliciter immutatum pro: %s"
+CHANGE_PASS_MISMATCH="✗ Signa non conveniunt"
+CHANGE_PASS_EMPTY="✗ Signum vacuum esse non potest"
+CHANGE_PASS_WEAK="✗ Signum valde debile. Utere firmiore signo"
+CHANGE_PASS_ERROR="✗ Vitium in immutando signo"
+
+ABOUT_TITLE="Circa v2.3"
+ABOUT_TEXT="Administrator Catholicus Regiminis Signorum\n\nVersio: 2.3\nSuffragium multarum distributionum\nSuffragium multilinguare\nIntegrae facultates administrationis\n\nExstructum pro Linux"
+
+WELCOME_TITLE="Benevenisti in Administratorem v2.3"
+WELCOME_MSG="ADMINISTRATOR REGIMINIS SIGNORUM v2.3\n\nDistributio: %s\nLingua: Latina\n\nDotes:\n• Administratio regiminum\n• Immutatio signorum\n• Multilinguare\n• Copia securitatis et repositio"
+
+LANG_SELECT_TITLE="Selector Linguae"
+LANG_SELECT_PROMPT="Elige linguam praeelectam:"
+LANG_CHANGED_TITLE="Lingua Immutata"
+LANG_CHANGED_MSG="✓ Lingua feliciter immutata in: %s"
+
+SUCCESS_TITLE="Proventus"
+ERROR_TITLE="Vitium"
+WARNING_TITLE="Monitio"
+INFO_TITLE="Nuntii"

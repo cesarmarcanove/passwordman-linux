@@ -1,0 +1,47 @@
+#!/bin/bash
+# Norwegian Høgnorsk Translations v2.3
+
+TITLE="Passordpolitikk Handsamar v2.3"
+MENU_VIEW_CURRENT="Vis noverande konfigurasjon"
+MENU_SET_DEFAULT="Set grunnpolitikk"
+MENU_SET_USER="Set politikk fyri brukar"
+MENU_ADVANCED="Vidgåande konfigurasjon"
+MENU_USER_STATUS="Vis brukarstode"
+MENU_APPLY_ALL="Nytt til alle brukarar"
+MENU_SECURITY="Vis tryggleikspolitikkar"
+MENU_BACKUP="Skapa tryggleikskopi"
+MENU_RESTORE="Gjenopprett tryggleikskopi"
+MENU_SYSINFO="Systemupplýsing"
+MENU_COMPLEXITY="Passordfløkt"
+MENU_CHANGE_PASS="Bytja brukarpassord"
+MENU_CHANGE_ROOT_PASS="Bytja root-passord"
+MENU_ABOUT="Um"
+MENU_LOG="Vis verksemdlogg"
+MENU_EXIT="Avslutt"
+
+CHANGE_PASS_TITLE="Bytja Passord"
+CHANGE_PASS_USER="Vel brukar:"
+CHANGE_PASS_NEW="Skriv inn nytt passord:"
+CHANGE_PASS_CONFIRM="Stadfest passord:"
+CHANGE_PASS_ROOT_WARNING="ÅTVARING! Du bytjar root-passordet."
+CHANGE_PASS_SUCCESS="✓ Passord bytja fyri: %s"
+CHANGE_PASS_MISMATCH="✗ Passorda stemmer ikkje"
+CHANGE_PASS_EMPTY="✗ Passord kann ikkje vera tomt"
+CHANGE_PASS_WEAK="✗ Passord for svakt. Nýt eit sterkare"
+CHANGE_PASS_ERROR="✗ Villa ved passordbyting"
+
+ABOUT_TITLE="Um v2.3"
+ABOUT_TEXT="Almen Passordpolitikk Handsamar\n\nÚtgåve: 2.3\nStøde fyri fleire distribusjonar\nFleirmålsstøde\nFullstendige handsamingsfunksjonar\n\nUtvikla fyri Linux"
+
+WELCOME_TITLE="Velkomen til Handsamar v2.3"
+WELCOME_MSG="PASSORDPOLITIKK HANDSAMAR v2.3\n\nDistribusjon: %s\nMål: Norsk Høgnorsk\n\nEigenskapar:\n• Politikkhandsaming\n• Passordbytingar\n• Fleirmålig\n• Tryggleikskopiering og gjenoppretting"
+
+LANG_SELECT_TITLE="Målsveljar"
+LANG_SELECT_PROMPT="Vel føretrekt målføre:"
+LANG_CHANGED_TITLE="Mål Bytja"
+LANG_CHANGED_MSG="✓ Mål bytja til: %s"
+
+SUCCESS_TITLE="Framgang"
+ERROR_TITLE="Villa"
+WARNING_TITLE="Åtvaring"
+INFO_TITLE="Upplýsing"

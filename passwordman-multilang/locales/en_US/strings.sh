@@ -1,0 +1,47 @@
+#!/bin/bash
+# English Translations v2.3
+
+TITLE="Password Policy Manager v2.3"
+MENU_VIEW_CURRENT="View current configuration"
+MENU_SET_DEFAULT="Set default policy"
+MENU_SET_USER="Set policy for user"
+MENU_ADVANCED="Advanced configuration"
+MENU_USER_STATUS="View user status"
+MENU_APPLY_ALL="Apply to all users"
+MENU_SECURITY="View security policies"
+MENU_BACKUP="Create backup"
+MENU_RESTORE="Restore backup"
+MENU_SYSINFO="System information"
+MENU_COMPLEXITY="Password complexity"
+MENU_CHANGE_PASS="Change user password"
+MENU_CHANGE_ROOT_PASS="Change root password"
+MENU_ABOUT="About"
+MENU_LOG="View activity log"
+MENU_EXIT="Exit"
+
+CHANGE_PASS_TITLE="Change Password"
+CHANGE_PASS_USER="Select user:"
+CHANGE_PASS_NEW="Enter new password:"
+CHANGE_PASS_CONFIRM="Confirm password:"
+CHANGE_PASS_ROOT_WARNING="WARNING! You are changing the root password."
+CHANGE_PASS_SUCCESS="✓ Password changed successfully for: %s"
+CHANGE_PASS_MISMATCH="✗ Passwords do not match"
+CHANGE_PASS_EMPTY="✗ Password cannot be empty"
+CHANGE_PASS_WEAK="✗ Password too weak. Use a stronger one"
+CHANGE_PASS_ERROR="✗ Error changing password"
+
+ABOUT_TITLE="About v2.3"
+ABOUT_TEXT="Universal Password Policy Manager\n\nVersion: 2.3\nMulti-distribution support\nMulti-language support\nFull management functions\n\nDeveloped for Linux"
+
+WELCOME_TITLE="Welcome to Manager v2.3"
+WELCOME_MSG="PASSWORD POLICY MANAGER v2.3\n\nDistribution: %s\nLanguage: English\n\nFeatures:\n• Policy management\n• Password changes\n• Multi-language\n• Backup and restore"
+
+LANG_SELECT_TITLE="Language Selector"
+LANG_SELECT_PROMPT="Select your preferred language:"
+LANG_CHANGED_TITLE="Language Changed"
+LANG_CHANGED_MSG="✓ Language changed successfully to: %s"
+
+SUCCESS_TITLE="Success"
+ERROR_TITLE="Error"
+WARNING_TITLE="Warning"
+INFO_TITLE="Information"

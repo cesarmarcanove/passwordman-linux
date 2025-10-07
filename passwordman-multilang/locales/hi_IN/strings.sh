@@ -1,0 +1,47 @@
+#!/bin/bash
+# Hindi Translations v2.3
+
+TITLE="पासवर्ड नीति प्रबंधक v2.3"
+MENU_VIEW_CURRENT="वर्तमान सेटिंग देखें"
+MENU_SET_DEFAULT="डिफॉल्ट नीति सेट करें"
+MENU_SET_USER="उपयोगकर्ता के लिए नीति सेट करें"
+MENU_ADVANCED="उन्नत सेटिंग"
+MENU_USER_STATUS="उपयोगकर्ता स्थिति देखें"
+MENU_APPLY_ALL="सभी उपयोगकर्ताओं पर लागू करें"
+MENU_SECURITY="सुरक्षा नीतियाँ देखें"
+MENU_BACKUP="बैकअप बनाएं"
+MENU_RESTORE="बैकअप पुनर्स्थापित करें"
+MENU_SYSINFO="सिस्टम जानकारी"
+MENU_COMPLEXITY="पासवर्ड जटिलता"
+MENU_CHANGE_PASS="उपयोगकर्ता पासवर्ड बदलें"
+MENU_CHANGE_ROOT_PASS="रूट पासवर्ड बदलें"
+MENU_ABOUT="के बारे में"
+MENU_LOG="गतिविधि लॉग देखें"
+MENU_EXIT="बाहर निकलें"
+
+CHANGE_PASS_TITLE="पासवर्ड बदलें"
+CHANGE_PASS_USER="उपयोगकर्ता चुनें:"
+CHANGE_PASS_NEW="नया पासवर्ड दर्ज करें:"
+CHANGE_PASS_CONFIRM="पासवर्ड पुष्टि करें:"
+CHANGE_PASS_ROOT_WARNING="चेतावनी! आप रूट पासवर्ड बदल रहे हैं।"
+CHANGE_PASS_SUCCESS="✓ पासवर्ड सफलतापूर्वक बदला गया: %s"
+CHANGE_PASS_MISMATCH="✗ पासवर्ड मेल नहीं खाते"
+CHANGE_PASS_EMPTY="✗ पासवर्ड खाली नहीं हो सकता"
+CHANGE_PASS_WEAK="✗ पासवर्ड बहुत कमजोर है। मजबूत पासवर्ड उपयोग करें"
+CHANGE_PASS_ERROR="✗ पासवर्ड बदलने में त्रुटि"
+
+ABOUT_TITLE="के बारे में v2.3"
+ABOUT_TEXT="सार्वभौमिक पासवर्ड नीति प्रबंधक\n\nसंस्करण: 2.3\nबहु-वितरण समर्थन\nबहु-भाषा समर्थन\nपूर्ण प्रबंधन कार्य\n\nलिनक्स के लिए विकसित"
+
+WELCOME_TITLE="प्रबंधक v2.3 में आपका स्वागत है"
+WELCOME_MSG="पासवर्ड नीति प्रबंधक v2.3\n\nवितरण: %s\nभाषा: हिन्दी\n\nविशेषताएं:\n• नीति प्रबंधन\n• पासवर्ड परिवर्तन\n• बहु-भाषा\n• बैकअप और पुनर्स्थापना"
+
+LANG_SELECT_TITLE="भाषा चयनकर्ता"
+LANG_SELECT_PROMPT="अपनी पसंदीदा भाषा चुनें:"
+LANG_CHANGED_TITLE="भाषा बदली गई"
+LANG_CHANGED_MSG="✓ भाषा सफलतापूर्वक बदली गई: %s"
+
+SUCCESS_TITLE="सफलता"
+ERROR_TITLE="त्रुटि"
+WARNING_TITLE="चेतावनी"
+INFO_TITLE="जानकारी"

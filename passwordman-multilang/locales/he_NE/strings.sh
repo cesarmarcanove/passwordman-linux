@@ -1,0 +1,47 @@
+#!/bin/bash
+# Hebrew Neutral Translations v2.3
+
+TITLE="ניהול מדיניות סיסמאות v2.3"
+MENU_VIEW_CURRENT="הצגת הגדרות נוכחיות"
+MENU_SET_DEFAULT="הגדרת מדיניות בסיסית"
+MENU_SET_USER="הגדרת מדיניות למשתמש"
+MENU_ADVANCED="הגדרות מתקדמות"
+MENU_USER_STATUS="הצגת מצב משתמשים"
+MENU_APPLY_ALL="יישום לכל המשתמשים"
+MENU_SECURITY="הצגת מדיניויות אבטחה"
+MENU_BACKUP="יצירת גיבוי"
+MENU_RESTORE="שחזור גיבוי"
+MENU_SYSINFO="פרטי מערכת"
+MENU_COMPLEXITY="מורכבות סיסמאות"
+MENU_CHANGE_PASS="שינוי סיסמת משתמש"
+MENU_CHANGE_ROOT_PASS="שינוי סיסמת מנהל"
+MENU_ABOUT="אודות התכנית"
+MENU_LOG="הצגת יומן פעולות"
+MENU_EXIT="סיום"
+
+CHANGE_PASS_TITLE="שינוי סיסמה"
+CHANGE_PASS_USER="נא לבחור משתמש:"
+CHANGE_PASS_NEW="נא להזין סיסמה חדשה:"
+CHANGE_PASS_CONFIRM="נא לאשר את הסיסמה:"
+CHANGE_PASS_ROOT_WARNING="שים לב! אתה משנה את סיסמת המנהל."
+CHANGE_PASS_SUCCESS="✓ הסיסמה שונתה בהצלחה עבור: %s"
+CHANGE_PASS_MISMATCH="✗ הסיסמאות אינן תואמות"
+CHANGE_PASS_EMPTY="✗ הסיסמה אינה יכולה להיות ריקה"
+CHANGE_PASS_WEAK="✗ הסיסמה חלשה מדי. נא להשתמש בסיסמה חזקה יותר"
+CHANGE_PASS_ERROR="✗ אירעה שגיאה בעת שינוי הסיסמה"
+
+ABOUT_TITLE="אודות v2.3"
+ABOUT_TEXT="מערכת ניהול מדיניות סיסמאות\n\nגרסה: 2.3\nתמיכה במערכות הפעלה שונות\nתמיכה בשפות רבות\nפונקציות ניהול מלאות\n\nמיועד למערכת Linux"
+
+WELCOME_TITLE="ברוך הבא למערכת v2.3"
+WELCOME_MSG="מערכת ניהול מדיניות סיסמאות v2.3\n\nסוג מערכת: %s\nשפה: עברית\n\nאפשרויות:\n• ניהול מדיניויות\n• שינוי סיסמאות\n• תמיכה בשפות\n• גיבוי ושחזור"
+
+LANG_SELECT_TITLE="בחירת שפה"
+LANG_SELECT_PROMPT="נא לבחור את השפה הרצויה:"
+LANG_CHANGED_TITLE="השפה שונתה"
+LANG_CHANGED_MSG="✓ השפה שונתה בהצלחה ל: %s"
+
+SUCCESS_TITLE="בוצע בהצלחה"
+ERROR_TITLE="שגיאה"
+WARNING_TITLE="התראה"
+INFO_TITLE="פרטים"

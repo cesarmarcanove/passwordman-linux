@@ -1,0 +1,47 @@
+#!/bin/bash
+# Mongolian Translations v2.3
+
+TITLE="Нууц Үгийн Бодлогын Менежер v2.3"
+MENU_VIEW_CURRENT="Одоогийн тохиргоог харах"
+MENU_SET_DEFAULT="Анхны бодлогыг тохируулах"
+MENU_SET_USER="Хэрэглэгчийн бодлогыг тохируулах"
+MENU_ADVANCED="Дэвшилтэй тохиргоо"
+MENU_USER_STATUS="Хэрэглэгчийн статусыг харах"
+MENU_APPLY_ALL="Бүх хэрэглэгчдэд хэрэгжүүлэх"
+MENU_SECURITY="Аюулгүй байдлын бодлогыг харах"
+MENU_BACKUP="Нөөц хуулбар үүсгэх"
+MENU_RESTORE="Нөөц хуулбарыг сэргээх"
+MENU_SYSINFO="Системийн мэдээлэл"
+MENU_COMPLEXITY="Нууц үгийн нарийн төвөгтэй байдал"
+MENU_CHANGE_PASS="Хэрэглэгчийн нууц үг солих"
+MENU_CHANGE_ROOT_PASS="Root нууц үг солих"
+MENU_ABOUT="Тухай"
+MENU_LOG="Үйл ажиллагааны бүртгэлийг харах"
+MENU_EXIT="Гарах"
+
+CHANGE_PASS_TITLE="Нууц Үг Солих"
+CHANGE_PASS_USER="Хэрэглэгчийг сонгох:"
+CHANGE_PASS_NEW="Шинэ нууц үг оруулах:"
+CHANGE_PASS_CONFIRM="Нууц үгийг баталгаажуулах:"
+CHANGE_PASS_ROOT_WARNING="АНХААРУУЛГА! Та root нууц үгийг солиж байна."
+CHANGE_PASS_SUCCESS="✓ Нууц үг амжилттай солигдлоо: %s"
+CHANGE_PASS_MISMATCH="✗ Нууц үгүүд тохирохгүй байна"
+CHANGE_PASS_EMPTY="✗ Нууц үг хоосон байж болохгүй"
+CHANGE_PASS_WEAK="✗ Нууц үг хэтэрхий сул байна. Илүү хүчтэй нууц үг ашиглана уу"
+CHANGE_PASS_ERROR="✗ Нууц үг солиход алдаа гарлаа"
+
+ABOUT_TITLE="Тухай v2.3"
+ABOUT_TEXT="Нууц Үгийн Бодлогын Бүрэн Менежер\n\nХувилбар: 2.3\nОлон түгээлтийн дэмжлэг\nОлон хэлний дэмжлэг\nБүрэн удирдлагын функцууд\n\nLinux-д зориулж бүтээгдсэн"
+
+WELCOME_TITLE="Менежер v2.3-т тавтай морил"
+WELCOME_MSG="НУУЦ ҮГИЙН БОДЛОГЫН МЕНЕЖЕР v2.3\n\nТүгээлт: %s\nХэл: Монгол\n\nОнцлог шинж чанарууд:\n• Бодлогын удирдлага\n• Нууц үгийн солилт\n• Олон хэл\n• Нөөц хуулбар ба сэргээлт"
+
+LANG_SELECT_TITLE="Хэл Сонгогч"
+LANG_SELECT_PROMPT="Дуртай хэлээ сонгоно уу:"
+LANG_CHANGED_TITLE="Хэл Солигдлоо"
+LANG_CHANGED_MSG="✓ Хэл амжилттай солигдлоо: %s"
+
+SUCCESS_TITLE="Амжилттай"
+ERROR_TITLE="Алдаа"
+WARNING_TITLE="Анхааруулга"
+INFO_TITLE="Мэдээлэл"

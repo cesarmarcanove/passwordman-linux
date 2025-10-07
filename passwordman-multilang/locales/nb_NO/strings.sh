@@ -1,0 +1,47 @@
+#!/bin/bash
+# Norwegian Bokmål Translations v2.3
+
+TITLE="Passordpolitikk Behandler v2.3"
+MENU_VIEW_CURRENT="Vis gjeldende konfigurasjon"
+MENU_SET_DEFAULT="Sett standard politikk"
+MENU_SET_USER="Sett politikk for bruker"
+MENU_ADVANCED="Avansert konfigurasjon"
+MENU_USER_STATUS="Vis brukerstatus"
+MENU_APPLY_ALL="Bruk på alle brukere"
+MENU_SECURITY="Vis sikkerhetspolitikker"
+MENU_BACKUP="Opprett sikkerhetskopi"
+MENU_RESTORE="Gjenopprett sikkerhetskopi"
+MENU_SYSINFO="Systeminformasjon"
+MENU_COMPLEXITY="Passordkompleksitet"
+MENU_CHANGE_PASS="Endre brukerpassord"
+MENU_CHANGE_ROOT_PASS="Endre root-passord"
+MENU_ABOUT="Om"
+MENU_LOG="Vis aktivitetslogg"
+MENU_EXIT="Avslutt"
+
+CHANGE_PASS_TITLE="Endre Passord"
+CHANGE_PASS_USER="Velg bruker:"
+CHANGE_PASS_NEW="Skriv inn nytt passord:"
+CHANGE_PASS_CONFIRM="Bekreft passord:"
+CHANGE_PASS_ROOT_WARNING="ADVARSEL! Du endrer root-passordet."
+CHANGE_PASS_SUCCESS="✓ Passord endret for: %s"
+CHANGE_PASS_MISMATCH="✗ Passordene stemmer ikke"
+CHANGE_PASS_EMPTY="✗ Passord kan ikke være tomt"
+CHANGE_PASS_WEAK="✗ Passord for svakt. Bruk et sterkere"
+CHANGE_PASS_ERROR="✗ Feil ved passordendring"
+
+ABOUT_TITLE="Om v2.3"
+ABOUT_TEXT="Universell Passordpolitikk Behandler\n\nVersjon: 2.3\nStøtte for flere distribusjoner\nFlerspråklig støtte\nFullstendige administrasjonsfunksjoner\n\nUtviklet for Linux"
+
+WELCOME_TITLE="Velkommen til Behandler v2.3"
+WELCOME_MSG="PASSORDPOLITIKK BEHANDLER v2.3\n\nDistribusjon: %s\nSpråk: Norsk Bokmål\n\nFunksjoner:\n• Politikkadministrasjon\n• Passordendringer\n• Flerspråklig\n• Sikkerhetskopiering og gjenoppretting"
+
+LANG_SELECT_TITLE="Språkvelger"
+LANG_SELECT_PROMPT="Velg foretrukket språk:"
+LANG_CHANGED_TITLE="Språk Endret"
+LANG_CHANGED_MSG="✓ Språk endret til: %s"
+
+SUCCESS_TITLE="Suksess"
+ERROR_TITLE="Feil"
+WARNING_TITLE="Advarsel"
+INFO_TITLE="Informasjon"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Icelandic Runic Translations v2.3
+
+TITLE="ᛚᛦᚴᛁᛚᛟᚱᚦᛅᛋᛏᛁᚠᚾᚢ ᛋᛏᛁᛟᚱᚾᛅᚾᛏᛁ v2.3"
+MENU_VIEW_CURRENT="ᛋᚴᛟᚦᛅ ᚾᚢᚠᛁᚱᛅᚾᛏᛁ ᛋᛏᛁᛚᛚᛁᚾᚴᛅᚱ"
+MENU_SET_DEFAULT="ᛋᛁᛏᛁᛅ ᛋᛁᛅᛚᚠᚴᛁᚠᚾᛅ ᛋᛏᛁᚠᚾᚢ"
+MENU_SET_USER="ᛋᛁᛏᛁᛅ ᛋᛏᛁᚠᚾᚢ ᚠᛦᚱᛁᚱ ᚾᛟᛏᛅᚾᛏᛅ"
+MENU_ADVANCED="ᛁᛏᛅᚱᛚᛁᚴᛅᚱ ᛋᛏᛁᛚᛚᛁᚾᚴᛅᚱ"
+MENU_USER_STATUS="ᛋᚴᛟᚦᛅ ᚾᛟᛏᛅᚾᛏᛅᛋᛏᛟᚦᚢ"
+MENU_APPLY_ALL="ᛒᛁᛏᛅ ᛅ ᛅᛚᛚᛅ ᚾᛟᛏᛁᚾᛏᛁ"
+MENU_SECURITY="ᛋᚴᛟᚦᛅ ᛟᚱᛦᚴᛁᛋᛋᛏᛁᚠᚾᚢᚱ"
+MENU_BACKUP="ᛒᚢᛅ ᛏᛁᛚ ᛟᚱᛦᚴᛁᛋᛅᚠᚱᛁᛏ"
+MENU_RESTORE="ᛁᚾᛏᛁᚱᚼᛁᛘᛏᛅ ᛟᚱᛦᚴᛁᛋᛅᚠᚱᛁᛏ"
+MENU_SYSINFO="ᚴᛁᚱᚠᛁᛋᚢᛒᛚᛦᛋᛁᚾᚴᛅᚱ"
+MENU_COMPLEXITY="ᛚᛦᚴᛁᛚᛟᚱᚦᛅᚠᛚᛅᛁᚴᛁᚢᛋᛏᛁᚴ"
+MENU_CHANGE_PASS="ᛒᚱᛁᛏᛅ ᚾᛟᛏᛅᚾᛏᛅ ᛚᛦᚴᛁᛚᛟᚱᚦᛁ"
+MENU_CHANGE_ROOT_PASS="ᛒᚱᛁᛏᛅ ᚱᛟᛟᛏ ᛚᛦᚴᛁᛚᛟᚱᚦᛁ"
+MENU_ABOUT="ᚢᛘ"
+MENU_LOG="ᛋᚴᛟᚦᛅ ᛅᚴᛏᛁᚠᛁᛏᛁᛏᛋᛚᛟᚴᚴ"
+MENU_EXIT="ᚼᛅᛁᛏᛅ"
+
+CHANGE_PASS_TITLE="ᛒᚱᛁᛏᛅ ᛚᛦᚴᛁᛚᛟᚱᚦᛁ"
+CHANGE_PASS_USER="ᚠᛁᛚᛏᛁ ᚾᛟᛏᛅᚾᛏᛅ:"
+CHANGE_PASS_NEW="ᛋᛚᛅᚦᛁ ᛁᚾ ᚾᛦᛏᛏ ᛚᛦᚴᛁᛚᛟᚱᚦ:"
+CHANGE_PASS_CONFIRM="ᛋᛏᛅᚠᛁᛋᛏᛁ ᛚᛦᚴᛁᛚᛟᚱᚦ:"
+CHANGE_PASS_ROOT_WARNING="ᚠᛁᚦᚠᛟᚱᚢᚾ! ᚦᚢ ᛁᚱᛏ ᛅᚦ ᛒᚱᛁᛏᛅ ᚱᛟᛟᛏ ᛚᛦᚴᛁᛚᛟᚱᚦᛁᚾᚢ."
+CHANGE_PASS_SUCCESS="✓ ᛚᛦᚴᛁᛚᛟᚱᚦ ᛒᚱᛁᛏᛏ ᚠᛦᚱᛁᚱ: %s"
+CHANGE_PASS_MISMATCH="✗ ᛚᛦᚴᛁᛚᛟᚱᚦᛁᚾ ᛒᛅᛋᛅ ᛁᚴᚴᛁ"
+CHANGE_PASS_EMPTY="✗ ᛚᛦᚴᛁᛚᛟᚱᚦ ᚴᛁᛏᛁ ᛁᚴᚴᛁ ᚠᛁᚱᛁ ᛅᚢᛏᛏ"
+CHANGE_PASS_WEAK="✗ ᛚᛦᚴᛁᛚᛟᚱᚦ ᛟᚠ ᚠᛁᚴᛏ. ᚾᛟᛏᛅᚦᛁ ᛋᛏᛁᚱᚴᛏ ᛚᛦᚴᛁᛚᛟᚱᚦ"
+CHANGE_PASS_ERROR="✗ ᚠᛁᛚᛚᛅ ᚠᛁᚦ ᛚᛦᚴᛁᛚᛟᚱᚦᛅᛒᚱᛁᛏᛁᚾᚴᚢ"
+
+ABOUT_TITLE="ᚢᛘ v2.3"
+ABOUT_TEXT="ᛅᛚᚼᛚᛁᚦᛅ ᛚᛦᚴᛁᛚᛟᚱᚦᛅᛋᛏᛁᚠᚾᚢ ᛋᛏᛁᛟᚱᚾᛅᚾᛏᛁ\n\nᚢᛏᚴᛅᚠᛅ: 2.3\nᚠᛁᛟᛚ-ᚢᛏᚴᛅᚠᚢ ᛋᛏᚢᚦᚾᛁᚾᚴᚢᚱ\nᚠᛁᛟᛚ-ᛏᚢᚾᚴᚢᛘᛅᛚᛅ ᛋᛏᚢᚦᚾᛁᚾᚴᚢᚱ\nᚠᚢᛚᛚᛅᚱ ᛋᛏᛁᛟᚱᚾᛅᚾᛅᚱ ᛅᚦᚴᛁᚱᚦᛁᚱ\n\nᚦᚱᛟᚠᛅᚦ ᚠᛦᚱᛁᚱ ᛚᛁᚾᚢᛪ"
+
+WELCOME_TITLE="ᚠᛁᛚᚴᛁᛘᛁᚾ ᛁ ᛋᛏᛁᛟᚱᚾᛅᚾᛏᛅᚾᚾ v2.3"
+WELCOME_MSG="ᛚᛦᚴᛁᛚᛟᚱᚦᛅᛋᛏᛁᚠᚾᚢ ᛋᛏᛁᛟᚱᚾᛅᚾᛏᛁ v2.3\n\nᚢᛏᚴᛅᚠᛅ: %s\nᛏᚢᚾᚴᚢᛘᛅᛚ: ᛁᛋᛚᛁᚾᚴᛅ\n\nᛁᚴᛁᚾᛚᛁᚴᛅᚱ:\n• ᛋᛏᛁᚠᚾᚢᛘ ᛋᛏᛁᛟᚱᚾᚢᚾ\n• ᛚᛦᚴᛁᛚᛟᚱᚦᛅᛒᚱᛁᛏᛁᚾᚴᛅᚱ\n• ᚠᛁᛟᛚ-ᛏᚢᚾᚴᚢᛘᛅᛚ\n• ᛟᚱᛦᚴᛁᛋᛅᚠᚱᛁᛏ ᛟᚷ ᛁᚾᛏᛁᚱᚼᛁᛘᛏ"
+
+LANG_SELECT_TITLE="ᛏᚢᚾᚴᚢᛘᛅᛚᛅ ᚠᛅᛚ"
+LANG_SELECT_PROMPT="ᚠᛁᛚᛏᛁ ᚦᛁᛏᛏ ᚠᛟᚱᛁᚦᚱᛅᚴᚾᛅ ᛏᚢᚾᚴᚢᛘᛅᛚ:"
+LANG_CHANGED_TITLE="ᛏᚢᚾᚴᚢᛘᛅᛚ ᛒᚱᛁᛏᛏ"
+LANG_CHANGED_MSG="✓ ᛏᚢᚾᚴᚢᛘᛅᛚ ᛒᚱᛁᛏᛏ ᛁ: %s"
+
+SUCCESS_TITLE="ᛏᛟᚴᛋᛏ"
+ERROR_TITLE="ᚠᛁᛚᛚᛅ"
+WARNING_TITLE="ᚠᛁᚦᚠᛟᚱᚢᚾ"
+INFO_TITLE="ᚢᛒᛚᛦᛋᛁᚾᚴᛅᚱ"

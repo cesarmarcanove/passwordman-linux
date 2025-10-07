@@ -1,0 +1,47 @@
+#!/bin/bash
+# Ukrainian Translations v2.3
+
+TITLE="Менеджер Політики Паролів v2.3"
+MENU_VIEW_CURRENT="Перегляд поточної конфігурації"
+MENU_SET_DEFAULT="Встановити політику за замовчуванням"
+MENU_SET_USER="Встановити політику для користувача"
+MENU_ADVANCED="Розширена конфігурація"
+MENU_USER_STATUS="Перегляд статусу користувачів"
+MENU_APPLY_ALL="Застосувати до всіх користувачів"
+MENU_SECURITY="Перегляд політик безпеки"
+MENU_BACKUP="Створити резервну копію"
+MENU_RESTORE="Відновити резервну копію"
+MENU_SYSINFO="Інформація про систему"
+MENU_COMPLEXITY="Складність пароля"
+MENU_CHANGE_PASS="Змінити пароль користувача"
+MENU_CHANGE_ROOT_PASS="Змінити пароль root"
+MENU_ABOUT="Про програму"
+MENU_LOG="Перегляд журналу активностей"
+MENU_EXIT="Вихід"
+
+CHANGE_PASS_TITLE="Змінити Пароль"
+CHANGE_PASS_USER="Виберіть користувача:"
+CHANGE_PASS_NEW="Введіть новий пароль:"
+CHANGE_PASS_CONFIRM="Підтвердіть пароль:"
+CHANGE_PASS_ROOT_WARNING="ПОПЕРЕДЖЕННЯ! Ви змінюєте пароль root."
+CHANGE_PASS_SUCCESS="✓ Пароль успішно змінено для: %s"
+CHANGE_PASS_MISMATCH="✗ Паролі не співпадають"
+CHANGE_PASS_EMPTY="✗ Пароль не може бути порожнім"
+CHANGE_PASS_WEAK="✗ Пароль занадто слабкий. Використовуйте надійніший"
+CHANGE_PASS_ERROR="✗ Помилка при зміні пароля"
+
+ABOUT_TITLE="Про програму v2.3"
+ABOUT_TEXT="Універсальний Менеджер Політики Паролів\n\nВерсія: 2.3\nПідтримка багатьох дистрибутивів\nБагатомовна підтримка\nПовні функції управління\n\nРозроблено для Linux"
+
+WELCOME_TITLE="Ласкаво просимо до Менеджера v2.3"
+WELCOME_MSG="МЕНЕДЖЕР ПОЛІТИКИ ПАРОЛІВ v2.3\n\nДистрибутив: %s\nМова: Українська\n\nМожливості:\n• Управління політиками\n• Зміна паролів\n• Багатомовність\n• Резервне копіювання та відновлення"
+
+LANG_SELECT_TITLE="Вибір Мови"
+LANG_SELECT_PROMPT="Виберіть бажану мову:"
+LANG_CHANGED_TITLE="Мову Змінено"
+LANG_CHANGED_MSG="✓ Мову успішно змінено на: %s"
+
+SUCCESS_TITLE="Успіх"
+ERROR_TITLE="Помилка"
+WARNING_TITLE="Попередження"
+INFO_TITLE="Інформація"

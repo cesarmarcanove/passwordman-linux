@@ -1,0 +1,47 @@
+#!/bin/bash
+# Hebrew Israeli Translations v2.3
+
+TITLE="מנהל מדיניות סיסמאות v2.3"
+MENU_VIEW_CURRENT="הצג הגדרות נוכחיות"
+MENU_SET_DEFAULT="הגדר מדיניות ברירת מחדל"
+MENU_SET_USER="הגדר מדיניות למשתמש"
+MENU_ADVANCED="הגדרות מתקדמות"
+MENU_USER_STATUS="הצג סטטוס משתמשים"
+MENU_APPLY_ALL="החל על כל המשתמשים"
+MENU_SECURITY="הצג מדיניות אבטחה"
+MENU_BACKUP="צור גיבוי"
+MENU_RESTORE="שחזר גיבוי"
+MENU_SYSINFO="מידע מערכת"
+MENU_COMPLEXITY="מורכבות סיסמאות"
+MENU_CHANGE_PASS="שנה סיסמת משתמש"
+MENU_CHANGE_ROOT_PASS="שנה סיסמת root"
+MENU_ABOUT="אודות"
+MENU_LOG="הצג יומן פעילות"
+MENU_EXIT="יציאה"
+
+CHANGE_PASS_TITLE="שנה סיסמה"
+CHANGE_PASS_USER="בחר משתמש:"
+CHANGE_PASS_NEW="הזן סיסמה חדשה:"
+CHANGE_PASS_CONFIRM="אשר סיסמה:"
+CHANGE_PASS_ROOT_WARNING="אזהרה! אתה משנה את סיסמת root."
+CHANGE_PASS_SUCCESS="✓ הסיסמה שונתה בהצלחה עבור: %s"
+CHANGE_PASS_MISMATCH="✗ הסיסמאות אינן תואמות"
+CHANGE_PASS_EMPTY="✗ הסיסמה לא יכולה להיות ריקה"
+CHANGE_PASS_WEAK="✗ סיסמה חלשה מדי. השתמש בסיסמה חזקה יותר"
+CHANGE_PASS_ERROR="✗ שגיאה בשינוי הסיסמה"
+
+ABOUT_TITLE="אודות v2.3"
+ABOUT_TEXT="מנהל מדיניות סיסמאות אוניברסלי\n\nגרסה: 2.3\nתמיכה בהפצות מרובות\nתמיכה בריבוי שפות\nתכונות ניהול מלאות\n\nפותח עבור Linux"
+
+WELCOME_TITLE="ברוכים הבאים למנהל v2.3"
+WELCOME_MSG="מנהל מדיניות סיסמאות v2.3\n\nהפצה: %s\nשפה: עברית\n\nתכונות:\n• ניהול מדיניות\n• שינוי סיסמאות\n• ריבוי שפות\n• גיבוי ושחזור"
+
+LANG_SELECT_TITLE="בורר שפה"
+LANG_SELECT_PROMPT="בחר את השפה המועדפת:"
+LANG_CHANGED_TITLE="שפה שונתה"
+LANG_CHANGED_MSG="✓ השפה שונתה בהצלחה ל: %s"
+
+SUCCESS_TITLE="הצלחה"
+ERROR_TITLE="שגיאה"
+WARNING_TITLE="אזהרה"
+INFO_TITLE="מידע"

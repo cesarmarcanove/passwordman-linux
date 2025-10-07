@@ -1,0 +1,47 @@
+#!/bin/bash
+# Albanian Translations v2.3
+
+TITLE="Menaxher i Politikave të Fjalëkalimeve v2.3"
+MENU_VIEW_CURRENT="Shiko cilësimet aktuale"
+MENU_SET_DEFAULT="Vendos politikën e parazgjedhur"
+MENU_SET_USER="Vendos politikën për përdoruesit"
+MENU_ADVANCED="Cilësime të avancuara"
+MENU_USER_STATUS="Shiko statusin e përdoruesve"
+MENU_APPLY_ALL="Apliko për të gjithë përdoruesit"
+MENU_SECURITY="Shiko politikat e sigurisë"
+MENU_BACKUP="Krijo kopje rezervë"
+MENU_RESTORE="Rikthe kopjen rezervë"
+MENU_SYSINFO="Informacione sistemi"
+MENU_COMPLEXITY="Kompleksiteti i fjalëkalimeve"
+MENU_CHANGE_PASS="Ndrysho fjalëkalimin e përdoruesit"
+MENU_CHANGE_ROOT_PASS="Ndrysho fjalëkalimin root"
+MENU_ABOUT="Rreth"
+MENU_LOG="Shiko regjistrin e aktiviteteve"
+MENU_EXIT="Dil"
+
+CHANGE_PASS_TITLE="Ndrysho Fjalëkalimin"
+CHANGE_PASS_USER="Zgjidh përdoruesin:"
+CHANGE_PASS_NEW="Vendos fjalëkalimin e ri:"
+CHANGE_PASS_CONFIRM="Konfirmo fjalëkalimin:"
+CHANGE_PASS_ROOT_WARNING="KUJDES! Po ndryshoni fjalëkalimin root."
+CHANGE_PASS_SUCCESS="✓ Fjalëkalimi u ndryshua me sukses për: %s"
+CHANGE_PASS_MISMATCH="✗ Fjalëkalimet nuk përputhen"
+CHANGE_PASS_EMPTY="✗ Fjalëkalimi nuk mund të jetë bosh"
+CHANGE_PASS_WEAK="✗ Fjalëkalimi shumë i dobët. Përdorni fjalëkalim më të fortë"
+CHANGE_PASS_ERROR="✗ Gabim në ndryshimin e fjalëkalimit"
+
+ABOUT_TITLE="Rreth v2.3"
+ABOUT_TEXT="Menaxher Universal i Politikave të Fjalëkalimeve\n\nVersioni: 2.3\nMbështetje për shumë distribucione\nMbështetje shumëgjuhëshe\nFunksione të plota menaxhimi\n\nZhvilluar për Linux"
+
+WELCOME_TITLE="Mirësevini në Menaxher v2.3"
+WELCOME_MSG="MENAXHER I POLITIKAVE TË FJALËKALIMEVE v2.3\n\nDistribucion: %s\nGjuha: Shqip\n\nKarakteristika:\n• Menaxhim politikash\n• Ndryshim fjalëkalimesh\n• Shumëgjuhësi\n• Kopje rezervë dhe rikthim"
+
+LANG_SELECT_TITLE="Përzgjedhës Gjuhe"
+LANG_SELECT_PROMPT="Zgjidhni gjuhën e preferuar:"
+LANG_CHANGED_TITLE="Gjuha u Ndryshua"
+LANG_CHANGED_MSG="✓ Gjuha u ndryshua me sukses në: %s"
+
+SUCCESS_TITLE="Sukses"
+ERROR_TITLE="Gabim"
+WARNING_TITLE="Kujdes"
+INFO_TITLE="Informacion"

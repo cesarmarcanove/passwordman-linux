@@ -1,0 +1,47 @@
+#!/bin/bash
+# Persian Translations v2.3
+
+TITLE="مدیریت سیاست گذرواژه v2.3"
+MENU_VIEW_CURRENT="مشاهده تنظیمات فعلی"
+MENU_SET_DEFAULT="تنظیم سیاست پیش فرض"
+MENU_SET_USER="تنظیم سیاست برای کاربر"
+MENU_ADVANCED="تنظیمات پیشرفته"
+MENU_USER_STATUS="مشاهده وضعیت کاربران"
+MENU_APPLY_ALL="اعمال برای همه کاربران"
+MENU_SECURITY="مشاهده سیاست های امنیتی"
+MENU_BACKUP="ایجاد پشتیبان"
+MENU_RESTORE="بازیابی پشتیبان"
+MENU_SYSINFO="اطلاعات سیستم"
+MENU_COMPLEXITY="پیچیدگی گذرواژه"
+MENU_CHANGE_PASS="تغییر گذرواژه کاربر"
+MENU_CHANGE_ROOT_PASS="تغییر گذرواژه روت"
+MENU_ABOUT="درباره"
+MENU_LOG="مشاهده لاگ فعالیت ها"
+MENU_EXIT="خروج"
+
+CHANGE_PASS_TITLE="تغییر گذرواژه"
+CHANGE_PASS_USER="کاربر را انتخاب کنید:"
+CHANGE_PASS_NEW="گذرواژه جدید را وارد کنید:"
+CHANGE_PASS_CONFIRM="تأیید گذرواژه:"
+CHANGE_PASS_ROOT_WARNING="هشدار! شما در حال تغییر گذرواژه روت هستید."
+CHANGE_PASS_SUCCESS="✓ گذرواژه با موفقیت تغییر کرد برای: %s"
+CHANGE_PASS_MISMATCH="✗ گذرواژه ها مطابقت ندارند"
+CHANGE_PASS_EMPTY="✗ گذرواژه نمی تواند خالی باشد"
+CHANGE_PASS_WEAK="✗ گذرواژه بسیار ضعیف است. از گذرواژه قوی تر استفاده کنید"
+CHANGE_PASS_ERROR="✗ خطا در تغییر گذرواژه"
+
+ABOUT_TITLE="درباره v2.3"
+ABOUT_TEXT="مدیریت جهانی سیاست گذرواژه\n\nنسخه: 2.3\nپشتیبانی چند توزیعی\nپشتیبانی چند زبانه\nویژگی های کامل مدیریت\n\nتوسعه یافته برای لینوکس"
+
+WELCOME_TITLE="به مدیریت v2.3 خوش آمدید"
+WELCOME_MSG="مدیریت سیاست گذرواژه v2.3\n\nتوزیع: %s\nزبان: فارسی\n\nویژگی ها:\n• مدیریت سیاست\n• تغییر گذرواژه\n• چند زبانه\n• پشتیبان گیری و بازیابی"
+
+LANG_SELECT_TITLE="انتخابگر زبان"
+LANG_SELECT_PROMPT="زبان مورد نظر خود را انتخاب کنید:"
+LANG_CHANGED_TITLE="زبان تغییر کرد"
+LANG_CHANGED_MSG="✓ زبان با موفقیت تغییر کرد به: %s"
+
+SUCCESS_TITLE="موفقیت"
+ERROR_TITLE="خطا"
+WARNING_TITLE="هشدار"
+INFO_TITLE="اطلاعات"

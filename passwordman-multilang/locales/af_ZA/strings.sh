@@ -1,0 +1,42 @@
+#!/bin/bash
+# Afrikaans Translations v2.3
+
+TITLE="Wagwoordbeleid Bestuurder v2.3"
+MENU_VIEW_CURRENT="Bekyk huidige konfigurasie"
+MENU_SET_DEFAULT="Stel verstekbeleid"
+MENU_SET_USER="Stel beleid vir gebruiker"
+MENU_ADVANCED="Gevorderde konfigurasie"
+MENU_USER_STATUS="Bekyk gebruikerstatus"
+MENU_APPLY_ALL="Pas toe op alle gebruikers"
+MENU_SECURITY="Bekyk sekuriteitsbeleid"
+MENU_BACKUP="Skep rugsteun"
+MENU_RESTORE="Herstel rugsteun"
+MENU_SYSINFO="Stelselinligting"
+MENU_COMPLEXITY="Wagwoordkompleksiteit"
+MENU_CHANGE_PASS="Verander gebruiker wagwoord"
+MENU_CHANGE_ROOT_PASS="Verander root wagwoord"
+MENU_ABOUT="Oor"
+MENU_LOG="Bekyk aktiviteitslog"
+MENU_EXIT="Verlaat"
+
+CHANGE_PASS_TITLE="Verander Wagwoord"
+CHANGE_PASS_USER="Kies gebruiker:"
+CHANGE_PASS_NEW="Voer nuwe wagwoord in:"
+CHANGE_PASS_CONFIRM="Bevestig wagwoord:"
+CHANGE_PASS_ROOT_WARNING="WAARSKUWING! Jy verander die root wagwoord."
+CHANGE_PASS_SUCCESS="✓ Wagwoord suksesvol verander vir: %s"
+CHANGE_PASS_MISMATCH="✗ Wagwoorde stem nie ooreen nie"
+CHANGE_PASS_EMPTY="✗ Wagwoord kan nie leeg wees nie"
+CHANGE_PASS_WEAK="✗ Wagwoord te swak. Gebruik 'n sterker een"
+CHANGE_PASS_ERROR="✗ Fout met wagwoord verandering"
+
+ABOUT_TITLE="Oor v2.3"
+ABOUT_TEXT="Universele Wagwoordbeleid Bestuurder\n\nWeergawe: 2.3\nMulti-verspreiding ondersteuning\nMulti-taal ondersteuning\nVolle bestuursfunksies\n\nOntwikkel vir Linux"
+
+WELCOME_TITLE="Welkom by Bestuurder v2.3"
+WELCOME_MSG="WAGWOORDBELEID BESTUURDER v2.3\n\nVerspreiding: %s\nTaal: Afrikaans\n\nKenmerke:\n• Beleidbestuur\n• Wagwoordveranderinge\n• Multi-taal\n• Rugsteun en herstel"
+
+SUCCESS_TITLE="Sukses"
+ERROR_TITLE="Fout"
+WARNING_TITLE="Waarskuwing"
+INFO_TITLE="Inligting"

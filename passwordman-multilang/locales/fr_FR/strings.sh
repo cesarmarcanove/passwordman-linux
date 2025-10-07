@@ -1,0 +1,47 @@
+#!/bin/bash
+# French Translations v2.3
+
+TITLE="Gestionnaire de Politiques de Mot de Passe v2.3"
+MENU_VIEW_CURRENT="Voir la configuration actuelle"
+MENU_SET_DEFAULT="Configurer la politique par défaut"
+MENU_SET_USER="Configurer la politique pour utilisateur"
+MENU_ADVANCED="Configuration avancée"
+MENU_USER_STATUS="Voir le statut des utilisateurs"
+MENU_APPLY_ALL="Appliquer à tous les utilisateurs"
+MENU_SECURITY="Voir les politiques de sécurité"
+MENU_BACKUP="Créer une sauvegarde"
+MENU_RESTORE="Restaurer la sauvegarde"
+MENU_SYSINFO="Information du système"
+MENU_COMPLEXITY="Complexité des mots de passe"
+MENU_CHANGE_PASS="Changer le mot de passe utilisateur"
+MENU_CHANGE_ROOT_PASS="Changer le mot de passe root"
+MENU_ABOUT="À propos"
+MENU_LOG="Voir le journal d'activités"
+MENU_EXIT="Quitter"
+
+CHANGE_PASS_TITLE="Changer le Mot de Passe"
+CHANGE_PASS_USER="Sélectionnez l'utilisateur:"
+CHANGE_PASS_NEW="Entrez le nouveau mot de passe:"
+CHANGE_PASS_CONFIRM="Confirmez le mot de passe:"
+CHANGE_PASS_ROOT_WARNING="ATTENTION ! Vous changez le mot de passe root."
+CHANGE_PASS_SUCCESS="✓ Mot de passe changé avec succès pour: %s"
+CHANGE_PASS_MISMATCH="✗ Les mots de passe ne correspondent pas"
+CHANGE_PASS_EMPTY="✗ Le mot de passe ne peut pas être vide"
+CHANGE_PASS_WEAK="✗ Mot de passe trop faible. Utilisez-en un plus fort"
+CHANGE_PASS_ERROR="✗ Erreur lors du changement de mot de passe"
+
+ABOUT_TITLE="À propos de v2.3"
+ABOUT_TEXT="Gestionnaire Universel de Politiques de Mot de Passe\n\nVersion: 2.3\nSupport multi-distribution\nSupport multi-langue\nFonctions complètes de gestion\n\nDéveloppé pour Linux"
+
+WELCOME_TITLE="Bienvenue dans le Gestionnaire v2.3"
+WELCOME_MSG="GESTIONNAIRE DE POLITIQUES DE MOT DE PASSE v2.3\n\nDistribution: %s\nLangue: Français\n\nFonctionnalités:\n• Gestion des politiques\n• Changement de mots de passe\n• Multi-langue\n• Sauvegarde et restauration"
+
+LANG_SELECT_TITLE="Sélecteur de Langue"
+LANG_SELECT_PROMPT="Sélectionnez votre langue préférée:"
+LANG_CHANGED_TITLE="Langue Changée"
+LANG_CHANGED_MSG="✓ Langue changée avec succès vers: %s"
+
+SUCCESS_TITLE="Succès"
+ERROR_TITLE="Erreur"
+WARNING_TITLE="Avertissement"
+INFO_TITLE="Information"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Latin Translations v2.3
+
+TITLE="Procurator Politicae Tessararum v2.3"
+MENU_VIEW_CURRENT="Vide dispositiones currentes"
+MENU_SET_DEFAULT="Statue politicam praedefinitam"
+MENU_SET_USER="Statue politicam usoris"
+MENU_ADVANCED="Dispositiones provectae"
+MENU_USER_STATUS="Vide statum usorum"
+MENU_APPLY_ALL="Applica omnibus usoribus"
+MENU_SECURITY="Vide politicas securitatis"
+MENU_BACKUP="Crea exemplar salutare"
+MENU_RESTORE="Restitue exemplar"
+MENU_SYSINFO="Informationes systematis"
+MENU_COMPLEXITY="Complexio tessararum"
+MENU_CHANGE_PASS="Muta tesseram usoris"
+MENU_CHANGE_ROOT_PASS="Muta tesseram radicis"
+MENU_ABOUT="De"
+MENU_LOG="Vide diarium actionum"
+MENU_EXIT="Exi"
+
+CHANGE_PASS_TITLE="Muta Tessaram"
+CHANGE_PASS_USER="Elige usorem:"
+CHANGE_PASS_NEW="Insere novam tesseram:"
+CHANGE_PASS_CONFIRM="Confirma tesseram:"
+CHANGE_PASS_ROOT_WARNING="CAVE! Tessaram radicis mutas."
+CHANGE_PASS_SUCCESS="✓ Tessara feliciter mutata pro: %s"
+CHANGE_PASS_MISMATCH="✗ Tessarae non congruunt"
+CHANGE_PASS_EMPTY="✗ Tessara inanis esse non potest"
+CHANGE_PASS_WEAK="✗ Tessara nimis debilis. Utere validiore tessara"
+CHANGE_PASS_ERROR="✗ Error in mutanda tessara"
+
+ABOUT_TITLE="De v2.3"
+ABOUT_TEXT="Procurator Universalis Politicae Tessararum\n\nVersio: 2.3\nSustentatio multarum distributionum\nSustentatio multilinguae\nPlenae facultates administrationis\n\nDivolutum pro Linux"
+
+WELCOME_TITLE="Salve in Procuratorem v2.3"
+WELCOME_MSG="PROCURATOR POLITICAE TESSARARUM v2.3\n\nDistributio: %s\nLingua: Latina\n\nDotae:\n• Administratio politicarum\n• Mutatio tessararum\n• Multilinguae\n• Exemplar salutare et restitutio"
+
+LANG_SELECT_TITLE="Elector Linguae"
+LANG_SELECT_PROMPT="Elige linguam praeoptatam:"
+LANG_CHANGED_TITLE="Lingua Mutata"
+LANG_CHANGED_MSG="✓ Lingua feliciter mutata in: %s"
+
+SUCCESS_TITLE="Successus"
+ERROR_TITLE="Error"
+WARNING_TITLE="Cautio"
+INFO_TITLE="Informationes"

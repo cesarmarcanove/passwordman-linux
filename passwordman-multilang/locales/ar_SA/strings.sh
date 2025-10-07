@@ -1,0 +1,47 @@
+#!/bin/bash
+# Saudi Arabic Translations v2.3
+
+TITLE="مدير سياسات كلمات المرور v2.3"
+MENU_VIEW_CURRENT="عرض الإعدادات الحالية"
+MENU_SET_DEFAULT="تعيين السياسة الافتراضية"
+MENU_SET_USER="تعيين السياسة للمستخدم"
+MENU_ADVANCED="الإعدادات المتقدمة"
+MENU_USER_STATUS="عرض حالة المستخدمين"
+MENU_APPLY_ALL="تطبيق على جميع المستخدمين"
+MENU_SECURITY="عرض سياسات الأمان"
+MENU_BACKUP="إنشاء نسخة احتياطية"
+MENU_RESTORE="استعادة النسخة الاحتياطية"
+MENU_SYSINFO="معلومات النظام"
+MENU_COMPLEXITY="تعقيد كلمات المرور"
+MENU_CHANGE_PASS="تغيير كلمة مرور المستخدم"
+MENU_CHANGE_ROOT_PASS="تغيير كلمة مرور root"
+MENU_ABOUT="حول"
+MENU_LOG="عرض سجل الأنشطة"
+MENU_EXIT="خروج"
+
+CHANGE_PASS_TITLE="تغيير كلمة المرور"
+CHANGE_PASS_USER="اختر المستخدم:"
+CHANGE_PASS_NEW="أدخل كلمة المرور الجديدة:"
+CHANGE_PASS_CONFIRM="تأكيد كلمة المرور:"
+CHANGE_PASS_ROOT_WARNING="تحذير! أنت تقوم بتغيير كلمة مرور root."
+CHANGE_PASS_SUCCESS="✓ تم تغيير كلمة المرور بنجاح لـ: %s"
+CHANGE_PASS_MISMATCH="✗ كلمات المرور غير متطابقة"
+CHANGE_PASS_EMPTY="✗ كلمة المرور لا يمكن أن تكون فارغة"
+CHANGE_PASS_WEAK="✗ كلمة المرور ضعيفة جداً. استخدم كلمة مرور أقوى"
+CHANGE_PASS_ERROR="✗ خطأ في تغيير كلمة المرور"
+
+ABOUT_TITLE="حول v2.3"
+ABOUT_TEXT="مدير سياسات كلمات المرور الشامل\n\nالإصدار: 2.3\nدعم متعدد التوزيعات\nدعم متعدد اللغات\nميزات إدارة كاملة\n\nمطور لنظام Linux"
+
+WELCOME_TITLE="مرحباً بكم في المدير v2.3"
+WELCOME_MSG="مدير سياسات كلمات المرور v2.3\n\nالتوزيعة: %s\nاللغة: العربية\n\nالميزات:\n• إدارة السياسات\n• تغيير كلمات المرور\n• متعدد اللغات\n• النسخ الاحتياطي والاستعادة"
+
+LANG_SELECT_TITLE="محدد اللغة"
+LANG_SELECT_PROMPT="اختر لغتك المفضلة:"
+LANG_CHANGED_TITLE="تم تغيير اللغة"
+LANG_CHANGED_MSG="✓ تم تغيير اللغة بنجاح إلى: %s"
+
+SUCCESS_TITLE="نجاح"
+ERROR_TITLE="خطأ"
+WARNING_TITLE="تحذير"
+INFO_TITLE="معلومات"

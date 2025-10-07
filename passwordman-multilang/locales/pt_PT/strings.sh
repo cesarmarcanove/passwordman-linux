@@ -1,0 +1,47 @@
+#!/bin/bash
+# European Portuguese Translations v2.3
+
+TITLE="Gestor de Políticas de Palavra-passe v2.3"
+MENU_VIEW_CURRENT="Ver configuração atual"
+MENU_SET_DEFAULT="Definir política padrão"
+MENU_SET_USER="Definir política para utilizador"
+MENU_ADVANCED="Configuração avançada"
+MENU_USER_STATUS="Ver estado dos utilizadores"
+MENU_APPLY_ALL="Aplicar a todos os utilizadores"
+MENU_SECURITY="Ver políticas de segurança"
+MENU_BACKUP="Criar cópia de segurança"
+MENU_RESTORE="Restaurar cópia de segurança"
+MENU_SYSINFO="Informação do sistema"
+MENU_COMPLEXITY="Complexidade da palavra-passe"
+MENU_CHANGE_PASS="Alterar palavra-passe do utilizador"
+MENU_CHANGE_ROOT_PASS="Alterar palavra-passe do root"
+MENU_ABOUT="Sobre"
+MENU_LOG="Ver registo de atividades"
+MENU_EXIT="Sair"
+
+CHANGE_PASS_TITLE="Alterar Palavra-passe"
+CHANGE_PASS_USER="Selecione o utilizador:"
+CHANGE_PASS_NEW="Introduza nova palavra-passe:"
+CHANGE_PASS_CONFIRM="Confirme a palavra-passe:"
+CHANGE_PASS_ROOT_WARNING="AVISO! Está a alterar a palavra-passe do root."
+CHANGE_PASS_SUCCESS="✓ Palavra-passe alterada com sucesso para: %s"
+CHANGE_PASS_MISMATCH="✗ As palavras-passe não coincidem"
+CHANGE_PASS_EMPTY="✗ A palavra-passe não pode estar vazia"
+CHANGE_PASS_WEAK="✗ Palavra-passe muito fraca. Utilize uma mais forte"
+CHANGE_PASS_ERROR="✗ Erro ao alterar palavra-passe"
+
+ABOUT_TITLE="Sobre v2.3"
+ABOUT_TEXT="Gestor Universal de Políticas de Palavra-passe\n\nVersão: 2.3\nSuporte multi-distribuição\nSuporte multi-idioma\nFunções completas de gestão\n\nDesenvolvido para Linux"
+
+WELCOME_TITLE="Bem-vindo ao Gestor v2.3"
+WELCOME_MSG="GESTOR DE POLÍTICAS DE PALAVRA-PASSE v2.3\n\nDistribuição: %s\nIdioma: Português Europeu\n\nCaracterísticas:\n• Gestão de políticas\n• Alteração de palavras-passe\n• Multi-idioma\n• Cópia de segurança e restauro"
+
+LANG_SELECT_TITLE="Seletor de Idioma"
+LANG_SELECT_PROMPT="Selecione o seu idioma preferido:"
+LANG_CHANGED_TITLE="Idioma Alterado"
+LANG_CHANGED_MSG="✓ Idioma alterado com sucesso para: %s"
+
+SUCCESS_TITLE="Sucesso"
+ERROR_TITLE="Erro"
+WARNING_TITLE="Aviso"
+INFO_TITLE="Informação"

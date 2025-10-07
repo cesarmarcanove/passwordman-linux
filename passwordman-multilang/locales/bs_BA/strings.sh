@@ -1,0 +1,47 @@
+#!/bin/bash
+# Bosnian Translations v2.3
+
+TITLE="Menadžer politike šifri v2.3"
+MENU_VIEW_CURRENT="Pogledaj trenutne postavke"
+MENU_SET_DEFAULT="Postavi podrazumijevanu politiku"
+MENU_SET_USER="Postavi politiku za korisnika"
+MENU_ADVANCED="Napredne postavke"
+MENU_USER_STATUS="Pogledaj status korisnika"
+MENU_APPLY_ALL="Primijeni na sve korisnike"
+MENU_SECURITY="Pogledaj sigurnosne politike"
+MENU_BACKUP="Napravi rezervnu kopiju"
+MENU_RESTORE="Vrati rezervnu kopiju"
+MENU_SYSINFO="Informacije o sistemu"
+MENU_COMPLEXITY="Složenost šifri"
+MENU_CHANGE_PASS="Promijeni korisničku šifru"
+MENU_CHANGE_ROOT_PASS="Promijeni root šifru"
+MENU_ABOUT="O programu"
+MENU_LOG="Pogledaj dnevnik aktivnosti"
+MENU_EXIT="Izlaz"
+
+CHANGE_PASS_TITLE="Promijeni Šifru"
+CHANGE_PASS_USER="Odaberite korisnika:"
+CHANGE_PASS_NEW="Unesite novu šifru:"
+CHANGE_PASS_CONFIRM="Potvrdite šifru:"
+CHANGE_PASS_ROOT_WARNING="UPOZORENJE! Mijenjate root šifru."
+CHANGE_PASS_SUCCESS="✓ Šifra uspješno promijenjena za: %s"
+CHANGE_PASS_MISMATCH="✗ Šifre se ne podudaraju"
+CHANGE_PASS_EMPTY="✗ Šifra ne može biti prazna"
+CHANGE_PASS_WEAK="✗ Šifra preslaba. Koristite jaču šifru"
+CHANGE_PASS_ERROR="✗ Greška pri promjeni šifre"
+
+ABOUT_TITLE="O programu v2.3"
+ABOUT_TEXT="Univerzalni menadžer politike šifri\n\nVerzija: 2.3\nPodrška za više distribucija\nVišejezička podrška\nPune upravljačke funkcije\n\nRazvijeno za Linux"
+
+WELCOME_TITLE="Dobrodošli u Menadžer v2.3"
+WELCOME_MSG="MENADŽER POLITIKE ŠIFRI v2.3\n\nDistribucija: %s\nJezik: Bosanski\n\nKarakteristike:\n• Upravljanje politikama\n• Promjena šifri\n• Višejezičnost\n• Rezervna kopija i vraćanje"
+
+LANG_SELECT_TITLE="Odabir jezika"
+LANG_SELECT_PROMPT="Odaberite željeni jezik:"
+LANG_CHANGED_TITLE="Jezik promijenjen"
+LANG_CHANGED_MSG="✓ Jezik uspješno promijenjen na: %s"
+
+SUCCESS_TITLE="Uspjeh"
+ERROR_TITLE="Greška"
+WARNING_TITLE="Upozorenje"
+INFO_TITLE="Informacije"

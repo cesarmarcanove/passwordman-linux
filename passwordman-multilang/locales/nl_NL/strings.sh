@@ -1,0 +1,47 @@
+#!/bin/bash
+# Dutch Translations v2.3
+
+TITLE="Wachtwoordbeleid Manager v2.3"
+MENU_VIEW_CURRENT="Huidige configuratie bekijken"
+MENU_SET_DEFAULT="Standaardbeleid instellen"
+MENU_SET_USER="Beleid voor gebruiker instellen"
+MENU_ADVANCED="Geavanceerde configuratie"
+MENU_USER_STATUS="Gebruikersstatus bekijken"
+MENU_APPLY_ALL="Toepassen op alle gebruikers"
+MENU_SECURITY="Beveiligingsbeleid bekijken"
+MENU_BACKUP="Backup maken"
+MENU_RESTORE="Backup herstellen"
+MENU_SYSINFO="Systeeminformatie"
+MENU_COMPLEXITY="Wachtwoordcomplexiteit"
+MENU_CHANGE_PASS="Gebruikerswachtwoord wijzigen"
+MENU_CHANGE_ROOT_PASS="Root-wachtwoord wijzigen"
+MENU_ABOUT="Over"
+MENU_LOG="Activiteitenlogboek bekijken"
+MENU_EXIT="Afsluiten"
+
+CHANGE_PASS_TITLE="Wachtwoord Wijzigen"
+CHANGE_PASS_USER="Selecteer gebruiker:"
+CHANGE_PASS_NEW="Voer nieuw wachtwoord in:"
+CHANGE_PASS_CONFIRM="Bevestig wachtwoord:"
+CHANGE_PASS_ROOT_WARNING="WAARSCHUWING! U wijzigt het root-wachtwoord."
+CHANGE_PASS_SUCCESS="✓ Wachtwoord succesvol gewijzigd voor: %s"
+CHANGE_PASS_MISMATCH="✗ Wachtwoorden komen niet overeen"
+CHANGE_PASS_EMPTY="✗ Wachtwoord mag niet leeg zijn"
+CHANGE_PASS_WEAK="✗ Wachtwoord te zwak. Gebruik een sterker wachtwoord"
+CHANGE_PASS_ERROR="✗ Fout bij wijzigen wachtwoord"
+
+ABOUT_TITLE="Over v2.3"
+ABOUT_TEXT="Universele Wachtwoordbeleid Manager\n\nVersie: 2.3\nOndersteuning voor meerdere distributies\nOndersteuning voor meerdere talen\nVolledige beheerfuncties\n\nOntwikkeld voor Linux"
+
+WELCOME_TITLE="Welkom bij Manager v2.3"
+WELCOME_MSG="WACHTWOORDBELEID MANAGER v2.3\n\nDistributie: %s\nTaal: Nederlands\n\nFuncties:\n• Beleidsbeheer\n• Wachtwoordwijzigingen\n• Meertalig\n• Backup en herstel"
+
+LANG_SELECT_TITLE="Taalkeuze"
+LANG_SELECT_PROMPT="Selecteer uw voorkeurstaal:"
+LANG_CHANGED_TITLE="Taal Gewijzigd"
+LANG_CHANGED_MSG="✓ Taal succesvol gewijzigd naar: %s"
+
+SUCCESS_TITLE="Succes"
+ERROR_TITLE="Fout"
+WARNING_TITLE="Waarschuwing"
+INFO_TITLE="Informatie"

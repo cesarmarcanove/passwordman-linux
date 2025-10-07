@@ -1,0 +1,47 @@
+#!/bin/bash
+# Japanese Translations v2.3
+
+TITLE="パスワードポリシーマネージャー v2.3"
+MENU_VIEW_CURRENT="現在の設定を表示"
+MENU_SET_DEFAULT="デフォルトポリシーを設定"
+MENU_SET_USER="ユーザーポリシーを設定"
+MENU_ADVANCED="詳細設定"
+MENU_USER_STATUS="ユーザーステータスを表示"
+MENU_APPLY_ALL="全ユーザーに適用"
+MENU_SECURITY="セキュリティポリシーを表示"
+MENU_BACKUP="バックアップを作成"
+MENU_RESTORE="バックアップを復元"
+MENU_SYSINFO="システム情報"
+MENU_COMPLEXITY="パスワードの複雑さ"
+MENU_CHANGE_PASS="ユーザーパスワードを変更"
+MENU_CHANGE_ROOT_PASS="rootパスワードを変更"
+MENU_ABOUT="について"
+MENU_LOG="アクティビティログを表示"
+MENU_EXIT="終了"
+
+CHANGE_PASS_TITLE="パスワード変更"
+CHANGE_PASS_USER="ユーザーを選択:"
+CHANGE_PASS_NEW="新しいパスワードを入力:"
+CHANGE_PASS_CONFIRM="パスワードを確認:"
+CHANGE_PASS_ROOT_WARNING="警告！rootパスワードを変更しています。"
+CHANGE_PASS_SUCCESS="✓ パスワードが正常に変更されました: %s"
+CHANGE_PASS_MISMATCH="✗ パスワードが一致しません"
+CHANGE_PASS_EMPTY="✗ パスワードを空にすることはできません"
+CHANGE_PASS_WEAK="✗ パスワードが弱すぎます。より強いものを使用してください"
+CHANGE_PASS_ERROR="✗ パスワード変更エラー"
+
+ABOUT_TITLE="について v2.3"
+ABOUT_TEXT="ユニバーサルパスワードポリシーマネージャー\n\nバージョン: 2.3\nマルチディストリビューションサポート\nマルチ言語サポート\n完全な管理機能\n\nLinux用に開発"
+
+WELCOME_TITLE="マネージャー v2.3へようこそ"
+WELCOME_MSG="パスワードポリシーマネージャー v2.3\n\nディストリビューション: %s\n言語: 日本語\n\n機能:\n• ポリシー管理\n• パスワード変更\n• マルチ言語\n• バックアップと復元"
+
+LANG_SELECT_TITLE="言語選択"
+LANG_SELECT_PROMPT="希望の言語を選択:"
+LANG_CHANGED_TITLE="言語が変更されました"
+LANG_CHANGED_MSG="✓ 言語が正常に変更されました: %s"
+
+SUCCESS_TITLE="成功"
+ERROR_TITLE="エラー"
+WARNING_TITLE="警告"
+INFO_TITLE="情報"

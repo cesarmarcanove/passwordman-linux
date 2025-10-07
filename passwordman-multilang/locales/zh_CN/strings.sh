@@ -1,0 +1,47 @@
+#!/bin/bash
+# Chinese Simplified Translations v2.3
+
+TITLE="密码策略管理器 v2.3"
+MENU_VIEW_CURRENT="查看当前设置"
+MENU_SET_DEFAULT="设置默认策略"
+MENU_SET_USER="设置用户策略"
+MENU_ADVANCED="高级设置"
+MENU_USER_STATUS="查看用户状态"
+MENU_APPLY_ALL="应用到所有用户"
+MENU_SECURITY="查看安全策略"
+MENU_BACKUP="创建备份"
+MENU_RESTORE="恢复备份"
+MENU_SYSINFO="系统信息"
+MENU_COMPLEXITY="密码复杂度"
+MENU_CHANGE_PASS="更改用户密码"
+MENU_CHANGE_ROOT_PASS="更改root密码"
+MENU_ABOUT="关于"
+MENU_LOG="查看活动日志"
+MENU_EXIT="退出"
+
+CHANGE_PASS_TITLE="更改密码"
+CHANGE_PASS_USER="选择用户:"
+CHANGE_PASS_NEW="输入新密码:"
+CHANGE_PASS_CONFIRM="确认密码:"
+CHANGE_PASS_ROOT_WARNING="警告！您正在更改root密码。"
+CHANGE_PASS_SUCCESS="✓ 密码已成功更改: %s"
+CHANGE_PASS_MISMATCH="✗ 密码不匹配"
+CHANGE_PASS_EMPTY="✗ 密码不能为空"
+CHANGE_PASS_WEAK="✗ 密码太弱。请使用更强的密码"
+CHANGE_PASS_ERROR="✗ 更改密码时出错"
+
+ABOUT_TITLE="关于 v2.3"
+ABOUT_TEXT="通用密码策略管理器\n\n版本: 2.3\n多发行版支持\n多语言支持\n完整管理功能\n\n为Linux开发"
+
+WELCOME_TITLE="欢迎使用管理器 v2.3"
+WELCOME_MSG="密码策略管理器 v2.3\n\n发行版: %s\n语言: 中文\n\n功能:\n• 策略管理\n• 密码更改\n• 多语言\n• 备份和恢复"
+
+LANG_SELECT_TITLE="语言选择器"
+LANG_SELECT_PROMPT="选择您偏好的语言:"
+LANG_CHANGED_TITLE="语言已更改"
+LANG_CHANGED_MSG="✓ 语言已成功更改为: %s"
+
+SUCCESS_TITLE="成功"
+ERROR_TITLE="错误"
+WARNING_TITLE="警告"
+INFO_TITLE="信息"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Vietnamese Translations v2.3
+
+TITLE="Trình Quản Lý Chính Sách Mật Khẩu v2.3"
+MENU_VIEW_CURRENT="Xem cài đặt hiện tại"
+MENU_SET_DEFAULT="Đặt chính sách mặc định"
+MENU_SET_USER="Đặt chính sách cho người dùng"
+MENU_ADVANCED="Cài đặt nâng cao"
+MENU_USER_STATUS="Xem trạng thái người dùng"
+MENU_APPLY_ALL="Áp dụng cho tất cả người dùng"
+MENU_SECURITY="Xem chính sách bảo mật"
+MENU_BACKUP="Tạo bản sao lưu"
+MENU_RESTORE="Khôi phục bản sao lưu"
+MENU_SYSINFO="Thông tin hệ thống"
+MENU_COMPLEXITY="Độ phức tạp mật khẩu"
+MENU_CHANGE_PASS="Đổi mật khẩu người dùng"
+MENU_CHANGE_ROOT_PASS="Đổi mật khẩu root"
+MENU_ABOUT="Giới thiệu"
+MENU_LOG="Xem nhật ký hoạt động"
+MENU_EXIT="Thoát"
+
+CHANGE_PASS_TITLE="Đổi Mật Khẩu"
+CHANGE_PASS_USER="Chọn người dùng:"
+CHANGE_PASS_NEW="Nhập mật khẩu mới:"
+CHANGE_PASS_CONFIRM="Xác nhận mật khẩu:"
+CHANGE_PASS_ROOT_WARNING="CẢNH BÁO! Bạn đang đổi mật khẩu root."
+CHANGE_PASS_SUCCESS="✓ Đổi mật khẩu thành công cho: %s"
+CHANGE_PASS_MISMATCH="✗ Mật khẩu không khớp"
+CHANGE_PASS_EMPTY="✗ Mật khẩu không được để trống"
+CHANGE_PASS_WEAK="✗ Mật khẩu quá yếu. Hãy dùng mật khẩu mạnh hơn"
+CHANGE_PASS_ERROR="✗ Lỗi khi đổi mật khẩu"
+
+ABOUT_TITLE="Giới thiệu v2.3"
+ABOUT_TEXT="Trình Quản Lý Chính Sách Mật Khẩu Toàn Cầu\n\nPhiên bản: 2.3\nHỗ trợ đa bản phân phối\nHỗ trợ đa ngôn ngữ\nĐầy đủ tính năng quản lý\n\nPhát triển cho Linux"
+
+WELCOME_TITLE="Chào mừng đến Trình Quản Lý v2.3"
+WELCOME_MSG="TRÌNH QUẢN LÝ CHÍNH SÁCH MẬT KHẨU v2.3\n\nBản phân phối: %s\nNgôn ngữ: Tiếng Việt\n\nTính năng:\n• Quản lý chính sách\n• Đổi mật khẩu\n• Đa ngôn ngữ\n• Sao lưu và khôi phục"
+
+LANG_SELECT_TITLE="Bộ chọn Ngôn ngữ"
+LANG_SELECT_PROMPT="Chọn ngôn ngữ ưa thích:"
+LANG_CHANGED_TITLE="Đã đổi Ngôn ngữ"
+LANG_CHANGED_MSG="✓ Đã đổi ngôn ngữ thành công sang: %s"
+
+SUCCESS_TITLE="Thành công"
+ERROR_TITLE="Lỗi"
+WARNING_TITLE="Cảnh báo"
+INFO_TITLE="Thông tin"

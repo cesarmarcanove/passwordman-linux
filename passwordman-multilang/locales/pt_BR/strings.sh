@@ -1,0 +1,47 @@
+#!/bin/bash
+# Portuguese Translations v2.3
+
+TITLE="Gerenciador de Políticas de Senha v2.3"
+MENU_VIEW_CURRENT="Ver configuração atual"
+MENU_SET_DEFAULT="Configurar política padrão"
+MENU_SET_USER="Configurar política para usuário"
+MENU_ADVANCED="Configuração avançada"
+MENU_USER_STATUS="Ver status dos usuários"
+MENU_APPLY_ALL="Aplicar a todos os usuários"
+MENU_SECURITY="Ver políticas de segurança"
+MENU_BACKUP="Criar backup"
+MENU_RESTORE="Restaurar backup"
+MENU_SYSINFO="Informação do sistema"
+MENU_COMPLEXITY="Complexidade de senhas"
+MENU_CHANGE_PASS="Alterar senha do usuário"
+MENU_CHANGE_ROOT_PASS="Alterar senha do root"
+MENU_ABOUT="Sobre"
+MENU_LOG="Ver log de atividades"
+MENU_EXIT="Sair"
+
+CHANGE_PASS_TITLE="Alterar Senha"
+CHANGE_PASS_USER="Selecione o usuário:"
+CHANGE_PASS_NEW="Digite a nova senha:"
+CHANGE_PASS_CONFIRM="Confirme a senha:"
+CHANGE_PASS_ROOT_WARNING="AVISO! Você está alterando a senha do root."
+CHANGE_PASS_SUCCESS="✓ Senha alterada com sucesso para: %s"
+CHANGE_PASS_MISMATCH="✗ As senhas não coincidem"
+CHANGE_PASS_EMPTY="✗ A senha não pode estar vazia"
+CHANGE_PASS_WEAK="✗ Senha muito fraca. Use uma mais forte"
+CHANGE_PASS_ERROR="✗ Erro ao alterar senha"
+
+ABOUT_TITLE="Sobre v2.3"
+ABOUT_TEXT="Gerenciador Universal de Políticas de Senha\n\nVersão: 2.3\nSuporte multi-distribuição\nSuporte multi-idioma\nFunções completas de gerenciamento\n\nDesenvolvido para Linux"
+
+WELCOME_TITLE="Bem-vindo ao Gerenciador v2.3"
+WELCOME_MSG="GERENCIADOR DE POLÍTICAS DE SENHA v2.3\n\nDistribuição: %s\nIdioma: Português\n\nCaracterísticas:\n• Gerenciamento de políticas\n• Alteração de senhas\n• Multi-idioma\n• Backup e restauração"
+
+LANG_SELECT_TITLE="Seletor de Idioma"
+LANG_SELECT_PROMPT="Selecione seu idioma preferido:"
+LANG_CHANGED_TITLE="Idioma Alterado"
+LANG_CHANGED_MSG="✓ Idioma alterado com sucesso para: %s"
+
+SUCCESS_TITLE="Sucesso"
+ERROR_TITLE="Erro"
+WARNING_TITLE="Aviso"
+INFO_TITLE="Informação"

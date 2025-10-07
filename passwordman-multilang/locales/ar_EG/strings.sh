@@ -1,0 +1,47 @@
+#!/bin/bash
+# Egyptian Arabic Translations v2.3
+
+TITLE="مدير سياسات الباسوورد v2.3"
+MENU_VIEW_CURRENT="شوف الإعدادات الحالية"
+MENU_SET_DEFAULT="ضبط السياسة العادية"
+MENU_SET_USER="ضبط السياسة لل user"
+MENU_ADVANCED="إعدادات متقدمة"
+MENU_USER_STATUS="شوف حالة اليوزرز"
+MENU_APPLY_ALL="طبق على كل اليوزرز"
+MENU_SECURITY="شوف سياسات الأمان"
+MENU_BACKUP="اعمل backup"
+MENU_RESTORE="استرجع ال backup"
+MENU_SYSINFO="معلومات عن السستم"
+MENU_COMPLEXITY="تعقيد الباسوورد"
+MENU_CHANGE_PASS="غير باسوورد اليوزر"
+MENU_CHANGE_ROOT_PASS="غير باسوورد root"
+MENU_ABOUT="عن البرنامج"
+MENU_LOG="شوف ال log"
+MENU_EXIT="خرج"
+
+CHANGE_PASS_TITLE="غير الباسوورد"
+CHANGE_PASS_USER="اختار اليوزر:"
+CHANGE_PASS_NEW="ادخل الباسوورد الجديد:"
+CHANGE_PASS_CONFIRM="أكد الباسوورد:"
+CHANGE_PASS_ROOT_WARNING="تحذير! انت بتغير باسوورد root."
+CHANGE_PASS_SUCCESS="✓ الباسوورد اتغيرت صح لـ: %s"
+CHANGE_PASS_MISMATCH="✗ الباسوورد متطابقتش"
+CHANGE_PASS_EMPTY="✗ الباسوورد مش ممكن تكون فاضية"
+CHANGE_PASS_WEAK="✗ الباسوورد ضعيفة قوي. استخدم باسوورد أقوى"
+CHANGE_PASS_ERROR="✗ فيه غلط في تغيير الباسوورد"
+
+ABOUT_TITLE="عن البرنامج v2.3"
+ABOUT_TEXT="مدير سياسات الباسوورد العالمي\n\nالنسخة: 2.3\nدعم لكل التوزيعات\nدعم للغات كتير\nميزات إدارة كاملة\n\nاتعملت لـ Linux"
+
+WELCOME_TITLE="أهلاً بيك في المدير v2.3"
+WELCOME_MSG="مدير سياسات الباسوورد v2.3\n\nالتوزيعة: %s\nاللغة: عربي\n\nالميزات:\n• إدارة السياسات\n• تغيير الباسوورد\n• لغات كتير\n• backup واستعادة"
+
+LANG_SELECT_TITLE="اختيار اللغة"
+LANG_SELECT_PROMPT="اختار لغتك المفضلة:"
+LANG_CHANGED_TITLE="اتغيرت اللغة"
+LANG_CHANGED_MSG="✓ اتغيرت اللغة صح لـ: %s"
+
+SUCCESS_TITLE="نجاح"
+ERROR_TITLE="غلط"
+WARNING_TITLE="تحذير"
+INFO_TITLE="معلومات"

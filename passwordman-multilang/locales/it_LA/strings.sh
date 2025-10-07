@@ -1,0 +1,47 @@
+#!/bin/bash
+# Italiano Latinoamericano Translations v2.3
+
+TITLE="Gestore Politiche Password v2.3"
+MENU_VIEW_CURRENT="Vedere configurazione attuale"
+MENU_SET_DEFAULT="Configurare politica predefinita"
+MENU_SET_USER="Configurare politica per utente"
+MENU_ADVANCED="Configurazione avanzata"
+MENU_USER_STATUS="Vedere stato utenti"
+MENU_APPLY_ALL="Applicare a tutti gli utenti"
+MENU_SECURITY="Vedere politiche sicurezza"
+MENU_BACKUP="Creare backup"
+MENU_RESTORE="Ripristinare backup"
+MENU_SYSINFO="Informazioni sistema"
+MENU_COMPLEXITY="Complessità password"
+MENU_CHANGE_PASS="Cambiare password utente"
+MENU_CHANGE_ROOT_PASS="Cambiare password root"
+MENU_ABOUT="Informazioni"
+MENU_LOG="Vedere registro attività"
+MENU_EXIT="Uscire"
+
+CHANGE_PASS_TITLE="Cambiare Password"
+CHANGE_PASS_USER="Selezionare utente:"
+CHANGE_PASS_NEW="Inserire nuova password:"
+CHANGE_PASS_CONFIRM="Confermare password:"
+CHANGE_PASS_ROOT_WARNING="ATTENZIONE! Stai cambiando la password di root."
+CHANGE_PASS_SUCCESS="✓ Password cambiata con successo per: %s"
+CHANGE_PASS_MISMATCH="✗ Le password non coincidono"
+CHANGE_PASS_EMPTY="✗ La password non può essere vuota"
+CHANGE_PASS_WEAK="✗ Password troppo debole. Usane una più forte"
+CHANGE_PASS_ERROR="✗ Errore nel cambio password"
+
+ABOUT_TITLE="Informazioni v2.3"
+ABOUT_TEXT="Gestore Universale Politiche Password\n\nVersione: 2.3\nSupporto multi-distribuzione\nSupporto multi-lingua\nFunzioni complete di gestione\n\nSviluppato per Linux"
+
+WELCOME_TITLE="Benvenuto al Gestore v2.3"
+WELCOME_MSG="GESTORE POLITICHE PASSWORD v2.3\n\nDistribuzione: %s\nLingua: Italiano Latinoamericano\n\nCaratteristiche:\n• Gestione politiche\n• Cambio password\n• Multi-lingua\n• Backup e ripristino"
+
+LANG_SELECT_TITLE="Selettore Lingua"
+LANG_SELECT_PROMPT="Selezionare la lingua preferita:"
+LANG_CHANGED_TITLE="Lingua Cambiata"
+LANG_CHANGED_MSG="✓ Lingua cambiata con successo a: %s"
+
+SUCCESS_TITLE="Successo"
+ERROR_TITLE="Errore"
+WARNING_TITLE="Attenzione"
+INFO_TITLE="Informazione"

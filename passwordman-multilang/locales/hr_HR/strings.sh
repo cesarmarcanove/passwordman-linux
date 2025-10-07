@@ -1,0 +1,47 @@
+#!/bin/bash
+# Croatian Translations v2.3
+
+TITLE="Upravitelj politike lozinki v2.3"
+MENU_VIEW_CURRENT="Pogledaj trenutne postavke"
+MENU_SET_DEFAULT="Postavi zadanu politiku"
+MENU_SET_USER="Postavi politiku za korisnika"
+MENU_ADVANCED="Napredne postavke"
+MENU_USER_STATUS="Pogledaj status korisnika"
+MENU_APPLY_ALL="Primijeni na sve korisnike"
+MENU_SECURITY="Pogledaj sigurnosne politike"
+MENU_BACKUP="Stvori sigurnosnu kopiju"
+MENU_RESTORE="Vrati sigurnosnu kopiju"
+MENU_SYSINFO="Informacije o sustavu"
+MENU_COMPLEXITY="Složenost lozinki"
+MENU_CHANGE_PASS="Promijeni korisničku lozinku"
+MENU_CHANGE_ROOT_PASS="Promijeni root lozinku"
+MENU_ABOUT="O programu"
+MENU_LOG="Pogledaj dnevnik aktivnosti"
+MENU_EXIT="Izlaz"
+
+CHANGE_PASS_TITLE="Promijeni Lozinku"
+CHANGE_PASS_USER="Odaberite korisnika:"
+CHANGE_PASS_NEW="Unesite novu lozinku:"
+CHANGE_PASS_CONFIRM="Potvrdite lozinku:"
+CHANGE_PASS_ROOT_WARNING="UPOZORENJE! Mijenjate root lozinku."
+CHANGE_PASS_SUCCESS="✓ Lozinka uspješno promijenjena za: %s"
+CHANGE_PASS_MISMATCH="✗ Lozinke se ne podudaraju"
+CHANGE_PASS_EMPTY="✗ Lozinka ne može biti prazna"
+CHANGE_PASS_WEAK="✗ Lozinka preslaba. Koristite jaču lozinku"
+CHANGE_PASS_ERROR="✗ Greška pri promjeni lozinke"
+
+ABOUT_TITLE="O programu v2.3"
+ABOUT_TEXT="Univerzalni upravitelj politike lozinki\n\nVerzija: 2.3\nPodrška za više distribucija\nVišejezična podrška\nPune upravljačke funkcije\n\nRazvijeno za Linux"
+
+WELCOME_TITLE="Dobrodošli u Upravitelj v2.3"
+WELCOME_MSG="UPRAVITELJ POLITIKE LOZINKI v2.3\n\nDistribucija: %s\nJezik: Hrvatski\n\nZnačajke:\n• Upravljanje politikama\n• Promjena lozinki\n• Višejezičnost\n• Sigurnosno kopiranje i vraćanje"
+
+LANG_SELECT_TITLE="Odabir jezika"
+LANG_SELECT_PROMPT="Odaberite željeni jezik:"
+LANG_CHANGED_TITLE="Jezik promijenjen"
+LANG_CHANGED_MSG="✓ Jezik uspješno promijenjen na: %s"
+
+SUCCESS_TITLE="Uspjeh"
+ERROR_TITLE="Greška"
+WARNING_TITLE="Upozorenje"
+INFO_TITLE="Informacije"

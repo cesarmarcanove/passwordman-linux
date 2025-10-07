@@ -1,0 +1,47 @@
+#!/bin/bash
+# Turkish Translations v2.3
+
+TITLE="Parola Politikası Yöneticisi v2.3"
+MENU_VIEW_CURRENT="Mevcut ayarları görüntüle"
+MENU_SET_DEFAULT="Varsayılan politika ayarla"
+MENU_SET_USER="Kullanıcı politikası ayarla"
+MENU_ADVANCED="Gelişmiş ayarlar"
+MENU_USER_STATUS="Kullanıcı durumunu görüntüle"
+MENU_APPLY_ALL="Tüm kullanıcılara uygula"
+MENU_SECURITY="Güvenlik politikalarını görüntüle"
+MENU_BACKUP="Yedek oluştur"
+MENU_RESTORE="Yedeği geri yükle"
+MENU_SYSINFO="Sistem bilgisi"
+MENU_COMPLEXITY="Parola karmaşıklığı"
+MENU_CHANGE_PASS="Kullanıcı parolasını değiştir"
+MENU_CHANGE_ROOT_PASS="Root parolasını değiştir"
+MENU_ABOUT="Hakkında"
+MENU_LOG="Etkinlik günlüğünü görüntüle"
+MENU_EXIT="Çıkış"
+
+CHANGE_PASS_TITLE="Parolayı Değiştir"
+CHANGE_PASS_USER="Kullanıcı seçin:"
+CHANGE_PASS_NEW="Yeni parola girin:"
+CHANGE_PASS_CONFIRM="Parolayı onaylayın:"
+CHANGE_PASS_ROOT_WARNING="UYARI! Root parolasını değiştiriyorsunuz."
+CHANGE_PASS_SUCCESS="✓ Parola başarıyla değiştirildi: %s"
+CHANGE_PASS_MISMATCH="✗ Parolalar eşleşmiyor"
+CHANGE_PASS_EMPTY="✗ Parola boş olamaz"
+CHANGE_PASS_WEAK="✗ Parola çok zayıf. Daha güçlü bir parola kullanın"
+CHANGE_PASS_ERROR="✗ Parola değiştirme hatası"
+
+ABOUT_TITLE="Hakkında v2.3"
+ABOUT_TEXT="Evrensel Parola Politikası Yöneticisi\n\nSürüm: 2.3\nÇoklu dağıtım desteği\nÇoklu dil desteği\nTam yönetim özellikleri\n\nLinux için geliştirilmiştir"
+
+WELCOME_TITLE="Yönetici v2.3'e Hoş Geldiniz"
+WELCOME_MSG="PAROLA POLİTİKASI YÖNETİCİSİ v2.3\n\nDağıtım: %s\nDil: Türkçe\n\nÖzellikler:\n• Politika yönetimi\n• Parola değişikliği\n• Çoklu dil\n• Yedekleme ve geri yükleme"
+
+LANG_SELECT_TITLE="Dil Seçici"
+LANG_SELECT_PROMPT="Tercih ettiğiniz dili seçin:"
+LANG_CHANGED_TITLE="Dil Değiştirildi"
+LANG_CHANGED_MSG="✓ Dil başarıyla değiştirildi: %s"
+
+SUCCESS_TITLE="Başarılı"
+ERROR_TITLE="Hata"
+WARNING_TITLE="Uyarı"
+INFO_TITLE="Bilgi"

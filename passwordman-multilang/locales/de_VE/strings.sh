@@ -1,0 +1,42 @@
+#!/bin/bash
+# Alemán Coloniero Translations v2.3
+
+TITLE="Passwort Policy Manager v2.3"
+MENU_VIEW_CURRENT="Aktuelle Konfiguration ansehen"
+MENU_SET_DEFAULT="Standard Policy setzen"
+MENU_SET_USER="Policy für Benutzer setzen"
+MENU_ADVANCED="Erweiterte Konfiguration"
+MENU_USER_STATUS="Benutzerstatus ansehen"
+MENU_APPLY_ALL="Für alle Benutzer anwenden"
+MENU_SECURITY="Sicherheits Policies ansehen"
+MENU_BACKUP="Backup machen"
+MENU_RESTORE="Backup wiederherstellen"
+MENU_SYSINFO="System Information"
+MENU_COMPLEXITY="Passwort Komplexität"
+MENU_CHANGE_PASS="Benutzer Passwort ändern"
+MENU_CHANGE_ROOT_PASS="Root Passwort ändern"
+MENU_ABOUT="Über"
+MENU_LOG="Aktivitäts Log ansehen"
+MENU_EXIT="Ausgang"
+
+CHANGE_PASS_TITLE="Passwort Ändern"
+CHANGE_PASS_USER="Benutzer auswählen:"
+CHANGE_PASS_NEW="Neues Passwort eingeben:"
+CHANGE_PASS_CONFIRM="Passwort bestätigen:"
+CHANGE_PASS_ROOT_WARNING="ACHTUNG! Sie ändern das Root Passwort."
+CHANGE_PASS_SUCCESS="✓ Passwort erfolgreich geändert für: %s"
+CHANGE_PASS_MISMATCH="✗ Passwörter stimmen nicht überein"
+CHANGE_PASS_EMPTY="✗ Passwort kann nicht leer sein"
+CHANGE_PASS_WEAK="✗ Passwort zu schwach. Nimm ein stärkeres"
+CHANGE_PASS_ERROR="✗ Fehler beim Passwortwechsel"
+
+ABOUT_TITLE="Über v2.3"
+ABOUT_TEXT="Universal Passwort Policy Manager\n\nVersion: 2.3\nMulti-Distribution Unterstützung\nMulti-Sprache Unterstützung\nVollständige Management Funktionen\n\nEntwickelt für Linux"
+
+WELCOME_TITLE="Willkommen zum Manager v2.3"
+WELCOME_MSG="PASSWORT POLICY MANAGER v2.3\n\nDistribution: %s\nSprache: Alemán Coloniero\n\nFunktionen:\n• Policy Management\n• Passwort Änderungen\n• Multi-Sprache\n• Backup und Wiederherstellung"
+
+SUCCESS_TITLE="Erfolg"
+ERROR_TITLE="Fehler"
+WARNING_TITLE="Warnung"
+INFO_TITLE="Information"

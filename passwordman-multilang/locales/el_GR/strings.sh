@@ -1,0 +1,47 @@
+#!/bin/bash
+# Modern Greek Translations v2.3
+
+TITLE="Διαχειριστής Πολιτικής Κωδικών v2.3"
+MENU_VIEW_CURRENT="Προβολή τρέχουσων ρυθμίσεων"
+MENU_SET_DEFAULT="Ορισμός προεπιλεγμένης πολιτικής"
+MENU_SET_USER="Ορισμός πολιτικής χρήστη"
+MENU_ADVANCED="Προχωρημένες ρυθμίσεις"
+MENU_USER_STATUS="Προβολή κατάστασης χρηστών"
+MENU_APPLY_ALL="Εφαρμογή σε όλους τους χρήστες"
+MENU_SECURITY="Προβολή πολιτικών ασφαλείας"
+MENU_BACKUP="Δημιουργία αντιγράφου"
+MENU_RESTORE="Επαναφορά αντιγράφου"
+MENU_SYSINFO="Πληροφορίες συστήματος"
+MENU_COMPLEXITY="Πολυπλοκότητα κωδικών"
+MENU_CHANGE_PASS="Αλλαγή κωδικού χρήστη"
+MENU_CHANGE_ROOT_PASS="Αλλαγή κωδικού root"
+MENU_ABOUT="Σχετικά"
+MENU_LOG="Προβολή αρχείου δραστηριοτήτων"
+MENU_EXIT="Έξοδος"
+
+CHANGE_PASS_TITLE="Αλλαγή Κωδικού"
+CHANGE_PASS_USER="Επιλέξτε χρήστη:"
+CHANGE_PASS_NEW="Εισάγετε νέο κωδικό:"
+CHANGE_PASS_CONFIRM="Επιβεβαιώστε κωδικό:"
+CHANGE_PASS_ROOT_WARNING="ΠΡΟΣΟΧΗ! Αλλάζετε τον κωδικό root."
+CHANGE_PASS_SUCCESS="✓ Ο κωδικός άλλαξε επιτυχώς για: %s"
+CHANGE_PASS_MISMATCH="✗ Οι κωδικοί δεν ταιριάζουν"
+CHANGE_PASS_EMPTY="✗ Ο κωδικός δεν μπορεί να είναι κενός"
+CHANGE_PASS_WEAK="✗ Ο κωδικός είναι πολύ αδύναμος. Χρησιμοποιήστε πιο ισχυρό κωδικό"
+CHANGE_PASS_ERROR="✗ Σφάλμα στην αλλαγή κωδικού"
+
+ABOUT_TITLE="Σχετικά v2.3"
+ABOUT_TEXT="Καθολικός Διαχειριστής Πολιτικής Κωδικών\n\nΈκδοση: 2.3\nΥποστήριξη πολλαπλών διανομών\nΠολύγλωσση υποστήριξη\nΠλήρεις λειτουργίες διαχείρισης\n\nΑναπτύχθηκε για Linux"
+
+WELCOME_TITLE="Καλώς ήρθατε στο Διαχειριστή v2.3"
+WELCOME_MSG="ΔΙΑΧΕΙΡΙΣΤΗΣ ΠΟΛΙΤΙΚΗΣ ΚΩΔΙΚΩΝ v2.3\n\nΔιανομή: %s\nΓλώσσα: Ελληνικά\n\nΧαρακτηριστικά:\n• Διαχείριση πολιτικών\n• Αλλαγή κωδικών\n• Πολύγλωσσο\n• Δημιουργία και επαναφορά αντιγράφων"
+
+LANG_SELECT_TITLE="Επιλογέας Γλώσσας"
+LANG_SELECT_PROMPT="Επιλέξτε την προτιμώμενη γλώσσα:"
+LANG_CHANGED_TITLE="Η Γλώσσα Άλλαξε"
+LANG_CHANGED_MSG="✓ Η γλώσσα άλλαξε επιτυχώς σε: %s"
+
+SUCCESS_TITLE="Επιτυχία"
+ERROR_TITLE="Σφάλμα"
+WARNING_TITLE="Προσοχή"
+INFO_TITLE="Πληροφορίες"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Norwegian Runic Translations v2.3
+
+TITLE="ᛒᛅᛋᛋᚢᚱᛏᛒᚢᛚᛁᛏᛁᚴᚴ ᛒᛁᚼᛅᚾᛏᛚᛅᚱ v2.3"
+MENU_VIEW_CURRENT="ᚢᛁᛋ ᚴᛁᛅᛚᛏᛅᚾᛏᛁ ᚴᚢᚾᚠᛁᚴᚢᚱᛅᛋᛁᚢᚾ"
+MENU_SET_DEFAULT="ᛋᛁᛏ ᛋᛏᛅᚾᛏᛅᚱᛏ ᛒᚢᛚᛁᛏᛁᚴᚴ"
+MENU_SET_USER="ᛋᛁᛏ ᛒᚢᛚᛁᛏᛁᚴᚴ ᚠᚢᚱ ᛒᚱᚢᚴᛅᚱ"
+MENU_ADVANCED="ᛅᚢᛅᚾᛋᛁᛏ ᚴᚢᚾᚠᛁᚴᚢᚱᛅᛋᛁᚢᚾ"
+MENU_USER_STATUS="ᚢᛁᛋ ᛒᚱᚢᚴᛅᚱᛋᛏᛅᛏᚢᛋ"
+MENU_APPLY_ALL="ᛒᚱᚢᚴ ᛅᛒ ᛅᛚᛚᛁ ᛒᚱᚢᚴᛅᚱᛁ"
+MENU_SECURITY="ᚢᛁᛋ ᛋᛁᚴᛁᚱᚼᛁᛏᛋᛒᚢᛚᛁᛏᛁᚴᚴᛁᚱ"
+MENU_BACKUP="ᚢᛒᚱᛁᛏ ᛋᛁᚴᛁᚱᚼᛁᛏᛋᚴᚢᛒᛁ"
+MENU_RESTORE="ᚴᛁᛁᚾᚢᛒᚱᛁᛏ ᛋᛁᚴᛁᚱᚼᛁᛏᛋᚴᚢᛒᛁ"
+MENU_SYSINFO="ᛋᛁᛋᛏᛁᛘᛁᚾᚠᚢᚱᛘᛅᛋᛁᚢᚾ"
+MENU_COMPLEXITY="ᛒᛅᛋᛋᚢᚱᛏᚴᚢᛘᛒᛚᛁᚴᛋᛁᛏᛁᛏ"
+MENU_CHANGE_PASS="ᛁᚾᛏᛁᚱ ᛒᚱᚢᚴᛅᚱᛒᛅᛋᛋᚢᚱᛏ"
+MENU_CHANGE_ROOT_PASS="ᛁᚾᛏᛁᚱ ᚱᚢᚢᛏ-ᛒᛅᛋᛋᚢᚱᛏ"
+MENU_ABOUT="ᚢᛘ"
+MENU_LOG="ᚢᛁᛋ ᛅᚴᛏᛁᚢᛁᛏᛁᛏᛋᛚᚢᚴ"
+MENU_EXIT="ᛅᚢᛋᛚᚢᛏ"
+
+CHANGE_PASS_TITLE="ᛁᚾᛏᛁᚱ ᛒᛅᛋᛋᚢᚱᛏ"
+CHANGE_PASS_USER="ᚢᛁᛚ ᛒᚱᚢᚴᛅᚱ:"
+CHANGE_PASS_NEW="ᛋᚴᚱᛁᚢ ᛁᚾ ᚾᛁᛏ ᛒᛅᛋᛋᚢᚱᛏ:"
+CHANGE_PASS_CONFIRM="ᛒᛁᚴᚱᛁᚠᛏ ᛒᛅᛋᛋᚢᚱᛏ:"
+CHANGE_PASS_ROOT_WARNING="ᛅᛏᚢᛅᚱᛋᛁᛚ! ᛏᚢ ᛁᚾᛏᛁᚱ ᚱᚢᚢᛏ-ᛒᛅᛋᛋᚢᚱᛏᛁᛏ."
+CHANGE_PASS_SUCCESS="✓ ᛒᛅᛋᛋᚢᚱᛏ ᛁᚾᛏᛁᚱᛏ ᚠᚢᚱ: %s"
+CHANGE_PASS_MISMATCH="✗ ᛒᛅᛋᛋᚢᚱᛏᛁᚾᛁ ᛋᛏᛁᛘᛁᚱ ᛁᚴᚴᛁ"
+CHANGE_PASS_EMPTY="✗ ᛒᛅᛋᛋᚢᚱᛏ ᚴᛅᚾ ᛁᚴᚴᛁ ᚢᛅᚱᛁ ᛏᚢᛘᛏ"
+CHANGE_PASS_WEAK="✗ ᛒᛅᛋᛋᚢᚱᛏ ᚠᚢᚱ ᛋᚢᛅᚴᛏ. ᛒᚱᚢᚴ ᛁᛏ ᛋᛏᛁᚱᚴᛅᚱᛁ"
+CHANGE_PASS_ERROR="✗ ᚠᛁᛚ ᚢᛁᛏ ᛒᛅᛋᛋᚢᚱᛏᛁᚾᛏᛁᚱᛁᚾᚴ"
+
+ABOUT_TITLE="ᚢᛘ v2.3"
+ABOUT_TEXT="ᚢᚾᛁᚢᛁᚱᛋᛁᛚ ᛒᛅᛋᛋᚢᚱᛏᛒᚢᛚᛁᛏᛁᚴᚴ ᛒᛁᚼᛅᚾᛏᛚᛅᚱ\n\nᚢᛁᚱᛋᛁᚢᚾ: 2.3\nᛋᛏᚢᛏᛏᛁ ᚠᚢᚱ ᚠᛚᛁᛁᚱᛁ ᛏᛁᛋᛏᚱᛁᛒᚢᛋᛁᚢᚾᛅᚱ\nᚠᛚᛁᛁᚱᛋᛒᚱᚢᚴᛚᛁᚴ ᛋᛏᚢᛏᛏᛁ\nᚠᚢᛚᛚᛋᛏᛁᚾᛏᛁᚴᛁ ᛅᛏᛘᛁᚾᛁᛋᛏᚱᛅᛋᛁᚢᚾᛋᚠᚢᚾᚴᛋᛁᚢᚾᛁᚱ\n\nᚢᛏᚢᛁᚴᛚᛅᛏ ᚠᚢᚱ ᛚᛁᚾᚢᛪ"
+
+WELCOME_TITLE="ᚢᛁᛚᚴᚢᛘᛘᛁᚾ ᛏᛁᛚ ᛒᛁᚼᛅᚾᛏᛚᛅᚱᛁᚾ v2.3"
+WELCOME_MSG="ᛒᛅᛋᛋᚢᚱᛏᛒᚢᛚᛁᛏᛁᚴᚴ ᛒᛁᚼᛅᚾᛏᛚᛅᚱ v2.3\n\nᛏᛁᛋᛏᚱᛁᛒᚢᛋᛁᚢᚾ: %s\nᛋᛒᚱᚢᚴ: ᚾᚢᚱᛋᚴ\n\nᚠᚢᚾᚴᛋᛁᚢᚾᛁᚱ:\n• ᛒᚢᛚᛁᛏᛁᚴᚴᛅᛏᛘᛁᚾᛁᛋᛏᚱᛅᛋᛁᚢᚾ\n• ᛒᛅᛋᛋᚢᚱᛏᛁᚾᛏᛁᚱᛁᚾᚴᛅᚱ\n• ᚠᛚᛁᛁᚱᛋᛒᚱᚢᚴᛚᛁᚴ\n• ᛋᛁᚴᛁᚱᚼᛁᛏᛋᚴᚢᛒᛁᛁᚱᛁᚾᚴ ᛟᚴ ᚴᛁᛁᚾᚢᛒᚱᛁᛏᛁᚾᚴ"
+
+LANG_SELECT_TITLE="ᛋᛒᚱᚢᚴᚢᛁᛚᚴᛁᚱ"
+LANG_SELECT_PROMPT="ᚢᛁᛚ ᚠᚢᚱᛁᛏᚱᚢᚴᛁᛏ ᛋᛒᚱᚢᚴ:"
+LANG_CHANGED_TITLE="ᛋᛒᚱᚢᚴ ᛁᚾᛏᛁᚱᛏ"
+LANG_CHANGED_MSG="✓ ᛋᛒᚱᚢᚴ ᛁᚾᛏᛁᚱᛏ ᛏᛁᛚ: %s"
+
+SUCCESS_TITLE="ᛋᚢᚴᛋᛁᛋ"
+ERROR_TITLE="ᚠᛁᛚ"
+WARNING_TITLE="ᛅᛏᚢᛅᚱᛋᛁᛚ"
+INFO_TITLE="ᛁᚾᚠᚢᚱᛘᛅᛋᛁᚢᚾ"

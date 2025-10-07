@@ -1,0 +1,47 @@
+#!/bin/bash
+# Hong Kong Traditional Chinese Translations v2.3
+
+TITLE="密碼政策管理員 v2.3"
+MENU_VIEW_CURRENT="檢視當前設定"
+MENU_SET_DEFAULT="設定預設政策"
+MENU_SET_USER="設定用戶政策"
+MENU_ADVANCED="進階設定"
+MENU_USER_STATUS="檢視用戶狀態"
+MENU_APPLY_ALL="套用至所有用戶"
+MENU_SECURITY="檢視安全政策"
+MENU_BACKUP="建立備份"
+MENU_RESTORE="恢復備份"
+MENU_SYSINFO="系統資料"
+MENU_COMPLEXITY="密碼複雜度"
+MENU_CHANGE_PASS="更改用戶密碼"
+MENU_CHANGE_ROOT_PASS="更改root密碼"
+MENU_ABOUT="關於"
+MENU_LOG="檢視活動記錄"
+MENU_EXIT="離開"
+
+CHANGE_PASS_TITLE="更改密碼"
+CHANGE_PASS_USER="選擇用戶:"
+CHANGE_PASS_NEW="輸入新密碼:"
+CHANGE_PASS_CONFIRM="確認密碼:"
+CHANGE_PASS_ROOT_WARNING="警告！您正在更改root密碼。"
+CHANGE_PASS_SUCCESS="✓ 密碼已成功更改: %s"
+CHANGE_PASS_MISMATCH="✗ 密碼不匹配"
+CHANGE_PASS_EMPTY="✗ 密碼不能空白"
+CHANGE_PASS_WEAK="✗ 密碼太弱。請使用更強密碼"
+CHANGE_PASS_ERROR="✗ 更改密碼時出錯"
+
+ABOUT_TITLE="關於 v2.3"
+ABOUT_TEXT="通用密碼政策管理員\n\n版本: 2.3\n多發行版支援\n多語言支援\n完整管理功能\n\n為Linux開發"
+
+WELCOME_TITLE="歡迎使用管理員 v2.3"
+WELCOME_MSG="密碼政策管理員 v2.3\n\n發行版: %s\n語言: 繁體中文\n\n功能:\n• 政策管理\n• 密碼更改\n• 多語言\n• 備份與恢復"
+
+LANG_SELECT_TITLE="語言選擇器"
+LANG_SELECT_PROMPT="選擇您偏好的語言:"
+LANG_CHANGED_TITLE="語言已更改"
+LANG_CHANGED_MSG="✓ 語言已成功更改為: %s"
+
+SUCCESS_TITLE="成功"
+ERROR_TITLE="錯誤"
+WARNING_TITLE="警告"
+INFO_TITLE="資料"

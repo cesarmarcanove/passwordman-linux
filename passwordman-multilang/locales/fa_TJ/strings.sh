@@ -1,0 +1,47 @@
+#!/bin/bash
+# Persian Cyrillic Translations v2.3
+
+TITLE="Парол Сисаса Менеҷер v2.3"
+MENU_VIEW_CURRENT="Дидани Танзимоти Феълӣ"
+MENU_SET_DEFAULT="Танзим кардани Сисаси Пешфарз"
+MENU_SET_USER="Танзим кардани Сисас барои Корбар"
+MENU_ADVANCED="Танзимоти Пешрафта"
+MENU_USER_STATUS="Дидани Вазъияти Корбарон"
+MENU_APPLY_ALL="Иҷро кардан ба Ҳамаи Корбарон"
+MENU_SECURITY="Дидани Сисасҳои Амниятӣ"
+MENU_BACKUP="Эҷоди Нусхаи Нӯсха"
+MENU_RESTORE="Барқарор кардани Нусха"
+MENU_SYSINFO="Маълумоти Система"
+MENU_COMPLEXITY="Мураккабии Парол"
+MENU_CHANGE_PASS="Тағйир додани Пароли Корбар"
+MENU_CHANGE_ROOT_PASS="Тағйир додани Пароли Рут"
+MENU_ABOUT="Дар бора"
+MENU_LOG="Дидани Сабти Фаъолиятҳо"
+MENU_EXIT="Баромад"
+
+CHANGE_PASS_TITLE="Тағйир додани Парол"
+CHANGE_PASS_USER="Корбарро интихоб кунед:"
+CHANGE_PASS_NEW="Пароли наврро ворид кунед:"
+CHANGE_PASS_CONFIRM="Паролро тасдиқ кунед:"
+CHANGE_PASS_ROOT_WARNING="ОГОҲӢ! Шумо пароли рутро тағйир медиҳед."
+CHANGE_PASS_SUCCESS="✓ Парол бомуваффақият тағйир ёфт барои: %s"
+CHANGE_PASS_MISMATCH="✗ Паролҳо мувофиқ нестанд"
+CHANGE_PASS_EMPTY="✗ Парол холӣ наметавонад бошад"
+CHANGE_PASS_WEAK="✗ Парол хеле суст аст. Пароли мустаҳкамтар истифода баред"
+CHANGE_PASS_ERROR="✗ Хато дар тағйири парол"
+
+ABOUT_TITLE="Дар бора v2.3"
+ABOUT_TEXT="Менеҷери Умумии Сисаси Парол\n\nВерсия: 2.3\nДастгирии чанд тақсимотӣ\nДастгирии чандзабонӣ\nХусусиятҳои пурраи идоракунӣ\n\nБарои Linux таҳия шудааст"
+
+WELCOME_TITLE="Ба Mенеҷер v2.3 Хуш омадед"
+WELCOME_MSG="Менеҷери Сисаси Парол v2.3\n\nТақсимот: %s\nЗабон: Форсӣ\n\nХусусиятҳо:\n• Идоракунии Сисас\n• Тағйири Парол\n• Чандзабонӣ\n• Нусхагирӣ ва Барқарорсозӣ"
+
+LANG_SELECT_TITLE="Интихобкунандаи Забон"
+LANG_SELECT_PROMPT="Забони дӯстдоштаи худро интихоб кунед:"
+LANG_CHANGED_TITLE="Забон Тағйир Ёфт"
+LANG_CHANGED_MSG="✓ Забон бомуваффақият тағйир ёфт ба: %s"
+
+SUCCESS_TITLE="Муваффақият"
+ERROR_TITLE="Хато"
+WARNING_TITLE="Огоҳӣ"
+INFO_TITLE="Маълумот"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Amharic Translations v2.3
+
+TITLE="የይለፍ ቃል ፖሊሲ አስተዳዳሪ v2.3"
+MENU_VIEW_CURRENT="የአሁኑ ቅንብሮች አሳይ"
+MENU_SET_DEFAULT="ነባሪ ፖሊሲ አቀናብር"
+MENU_SET_USER="ለተጠቃሚ ፖሊሲ አቀናብር"
+MENU_ADVANCED="የላቀ ቅንብሮች"
+MENU_USER_STATUS="የተጠቃሚ ሁኔታ አሳይ"
+MENU_APPLY_ALL="ለሁሉም ተጠቃሚዎች ተግብር"
+MENU_SECURITY="የደህንነት ፖሊሲዎች አሳይ"
+MENU_BACKUP="ተጠቃሚ ይፍጠሩ"
+MENU_RESTORE="ተጠቃሚ ይመልሱ"
+MENU_SYSINFO="የስርዓት መረጃ"
+MENU_COMPLEXITY="የይለፍ ቃል ውስብስብነት"
+MENU_CHANGE_PASS="የተጠቃሚ ይለፍ ቃል ይቀይሩ"
+MENU_CHANGE_ROOT_PASS="የroot ይለፍ ቃል ይቀይሩ"
+MENU_ABOUT="ስለ"
+MENU_LOG="የእንቅስቃሴ ምዝግብ አሳይ"
+MENU_EXIT="ውጣ"
+
+CHANGE_PASS_TITLE="የይለፍ ቃል ይቀይሩ"
+CHANGE_PASS_USER="ተጠቃሚ ይምረጡ:"
+CHANGE_PASS_NEW="አዲስ የይለፍ ቃል ያስገቡ:"
+CHANGE_PASS_CONFIRM="የይለፍ ቃል ያረጋግጡ:"
+CHANGE_PASS_ROOT_WARNING="ማስጠንቀቂያ! የroot የይለፍ ቃል እየቀየሩ ነው።"
+CHANGE_PASS_SUCCESS="✓ የይለፍ ቃል በተሳካ ሁኔታ ተቀይሯል: %s"
+CHANGE_PASS_MISMATCH="✗ የይለፍ ቃሎች አይጣጣሙም"
+CHANGE_PASS_EMPTY="✗ የይለፍ ቃል ባዶ ሊሆን አይችልም"
+CHANGE_PASS_WEAK="✗ የይለፍ ቃል በጣም ደካማ ነው። የበለጠ ጠንካራ የይለፍ ቃል ይጠቀሙ"
+CHANGE_PASS_ERROR="✗ የይለፍ ቃል በመቀየር ላይ ስህተት"
+
+ABOUT_TITLE="ስለ v2.3"
+ABOUT_TEXT="የሁለንተናዊ የይለፍ ቃል ፖሊሲ አስተዳዳሪ\n\nእትም: 2.3\nበርካታ ስርጭት ድጋፍ\nበርካታ ቋንቋ ድጋፍ\nሙሉ የአስተዳደር ባህሪያት\n\nለLinux የተገነባ"
+
+WELCOME_TITLE="ወደ አስተዳዳሪ v2.3 እንኳን በደህና መጡ"
+WELCOME_MSG="የይለፍ ቃል ፖሊሲ አስተዳዳሪ v2.3\n\nስርጭት: %s\nቋንቋ: አማርኛ\n\nባህሪያት:\n• የፖሊሲ አስተዳደር\n• የይለፍ ቃል ለውጥ\n• በርካታ ቋንቋ\n• የተጠቃሚ እና መመለስ"
+
+LANG_SELECT_TITLE="የቋንቋ ምርጫ"
+LANG_SELECT_PROMPT="የተመረጠበትን ቋንቋ ይምረጡ:"
+LANG_CHANGED_TITLE="ቋንቋ ተቀይሯል"
+LANG_CHANGED_MSG="✓ ቋንቋ በተሳካ ሁኔታ ተቀይሯል: %s"
+
+SUCCESS_TITLE="በርካታ"
+ERROR_TITLE="ስህተት"
+WARNING_TITLE="ማስጠንቀቂያ"
+INFO_TITLE="መረጃ"

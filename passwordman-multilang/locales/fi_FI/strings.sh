@@ -1,0 +1,47 @@
+#!/bin/bash
+# Finnish Translations v2.3
+
+TITLE="Salasanakäytäntöjen Hallinta v2.3"
+MENU_VIEW_CURRENT="Näytä nykyinen asetukset"
+MENU_SET_DEFAULT="Aseta oletuskäytäntö"
+MENU_SET_USER="Aseta käytäntö käyttäjälle"
+MENU_ADVANCED="Lisäasetukset"
+MENU_USER_STATUS="Näytä käyttäjätilanne"
+MENU_APPLY_ALL="Käytä kaikkiin käyttäjiin"
+MENU_SECURITY="Näytä turvallisuuskäytännöt"
+MENU_BACKUP="Luo varmuuskopio"
+MENU_RESTORE="Palauta varmuuskopio"
+MENU_SYSINFO="Järjestelmätiedot"
+MENU_COMPLEXITY="Salasanan monimutkaisuus"
+MENU_CHANGE_PASS="Vaihda käyttäjän salasana"
+MENU_CHANGE_ROOT_PASS="Vaihda root-salasana"
+MENU_ABOUT="Tietoja"
+MENU_LOG="Näytä aktiviteettiloki"
+MENU_EXIT="Poistu"
+
+CHANGE_PASS_TITLE="Vaihda Salasana"
+CHANGE_PASS_USER="Valitse käyttäjä:"
+CHANGE_PASS_NEW="Syötä uusi salasana:"
+CHANGE_PASS_CONFIRM="Vahvista salasana:"
+CHANGE_PASS_ROOT_WARNING="VAROITUS! Vaihdat root-salasanaa."
+CHANGE_PASS_SUCCESS="✓ Salasana vaihdettu onnistuneesti: %s"
+CHANGE_PASS_MISMATCH="✗ Salasanat eivät täsmää"
+CHANGE_PASS_EMPTY="✗ Salasana ei voi olla tyhjä"
+CHANGE_PASS_WEAK="✗ Salasana liian heikko. Käytä vahvempaa"
+CHANGE_PASS_ERROR="✗ Virhe salasanan vaihdossa"
+
+ABOUT_TITLE="Tietoja v2.3"
+ABOUT_TEXT="Yleinen Salasanakäytäntöjen Hallinta\n\nVersio: 2.3\nMonijakelutuki\nMonikielituki\nTäydelliset hallintatoiminnot\n\nKehitetty Linuxille"
+
+WELCOME_TITLE="Tervetuloa Hallintaan v2.3"
+WELCOME_MSG="SALASANAKÄYTÄNTÖJEN HALLINTA v2.3\n\nJakelu: %s\nKieli: Suomi\n\nOminaisuudet:\n• Käytäntöjen hallinta\n• Salasananvaihdot\n• Monikieli\n• Varmuuskopiointi ja palautus"
+
+LANG_SELECT_TITLE="Kielenvalinta"
+LANG_SELECT_PROMPT="Valitse haluamasi kieli:"
+LANG_CHANGED_TITLE="Kieli Vaihdettu"
+LANG_CHANGED_MSG="✓ Kieli vaihdettu onnistuneesti: %s"
+
+SUCCESS_TITLE="Onnistui"
+ERROR_TITLE="Virhe"
+WARNING_TITLE="Varoitus"
+INFO_TITLE="Tiedot"

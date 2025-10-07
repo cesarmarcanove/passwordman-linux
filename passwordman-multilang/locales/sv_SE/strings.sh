@@ -1,0 +1,47 @@
+#!/bin/bash
+# Swedish Translations v2.3
+
+TITLE="Lösenordspolicy Hanterare v2.3"
+MENU_VIEW_CURRENT="Visa aktuell konfiguration"
+MENU_SET_DEFAULT="Ställ in standardpolicy"
+MENU_SET_USER="Ställ in policy för användare"
+MENU_ADVANCED="Avancerad konfiguration"
+MENU_USER_STATUS="Visa användarstatus"
+MENU_APPLY_ALL="Tillämpa på alla användare"
+MENU_SECURITY="Visa säkerhetspolicyer"
+MENU_BACKUP="Skapa säkerhetskopia"
+MENU_RESTORE="Återställ säkerhetskopia"
+MENU_SYSINFO="Systeminformation"
+MENU_COMPLEXITY="Lösenordskomplexitet"
+MENU_CHANGE_PASS="Ändra användarlösenord"
+MENU_CHANGE_ROOT_PASS="Ändra root-lösenord"
+MENU_ABOUT="Om"
+MENU_LOG="Visa aktivitetslogg"
+MENU_EXIT="Avsluta"
+
+CHANGE_PASS_TITLE="Ändra Lösenord"
+CHANGE_PASS_USER="Välj användare:"
+CHANGE_PASS_NEW="Ange nytt lösenord:"
+CHANGE_PASS_CONFIRM="Bekräfta lösenord:"
+CHANGE_PASS_ROOT_WARNING="VARNING! Du ändrar root-lösenordet."
+CHANGE_PASS_SUCCESS="✓ Lösenord ändrat framgångsrikt för: %s"
+CHANGE_PASS_MISMATCH="✗ Lösenorden matchar inte"
+CHANGE_PASS_EMPTY="✗ Lösenord kan inte vara tomt"
+CHANGE_PASS_WEAK="✗ Lösenord för svagt. Använd ett starkare"
+CHANGE_PASS_ERROR="✗ Fel vid lösenordsändring"
+
+ABOUT_TITLE="Om v2.3"
+ABOUT_TEXT="Universal Lösenordspolicy Hanterare\n\nVersion: 2.3\nMulti-distribution support\nMulti-språk support\nFullständiga hanteringsfunktioner\n\nUtvecklad för Linux"
+
+WELCOME_TITLE="Välkommen till Hanteraren v2.3"
+WELCOME_MSG="LÖSENORDSPOLICY HANTERARE v2.3\n\nDistribution: %s\nSpråk: Svenska\n\nFunktioner:\n• Policyhantering\n• Lösenordsändringar\n• Multi-språk\n• Säkerhetskopia och återställning"
+
+LANG_SELECT_TITLE="Språkval"
+LANG_SELECT_PROMPT="Välj ditt föredragna språk:"
+LANG_CHANGED_TITLE="Språk Ändrat"
+LANG_CHANGED_MSG="✓ Språk ändrat framgångsrikt till: %s"
+
+SUCCESS_TITLE="Framgång"
+ERROR_TITLE="Fel"
+WARNING_TITLE="Varning"
+INFO_TITLE="Information"

@@ -1,0 +1,47 @@
+#!/bin/bash
+# Thai Translations v2.3
+
+TITLE="ตัวจัดการนโยบายรหัสผ่าน v2.3"
+MENU_VIEW_CURRENT="ดูการตั้งค่าปัจจุบัน"
+MENU_SET_DEFAULT="ตั้งค่านโยบายเริ่มต้น"
+MENU_SET_USER="ตั้งค่านโยบายสำหรับผู้ใช้"
+MENU_ADVANCED="การตั้งค่าขั้นสูง"
+MENU_USER_STATUS="ดูสถานะผู้ใช้"
+MENU_APPLY_ALL="นำไปใช้กับผู้ใช้ทั้งหมด"
+MENU_SECURITY="ดูนโยบายความปลอดภัย"
+MENU_BACKUP="สร้างการสำรองข้อมูล"
+MENU_RESTORE="กู้คืนการสำรองข้อมูล"
+MENU_SYSINFO="ข้อมูลระบบ"
+MENU_COMPLEXITY="ความซับซ้อนของรหัสผ่าน"
+MENU_CHANGE_PASS="เปลี่ยนรหัสผ่านผู้ใช้"
+MENU_CHANGE_ROOT_PASS="เปลี่ยนรหัสผ่าน root"
+MENU_ABOUT="เกี่ยวกับ"
+MENU_LOG="ดูบันทึกกิจกรรม"
+MENU_EXIT="ออก"
+
+CHANGE_PASS_TITLE="เปลี่ยนรหัสผ่าน"
+CHANGE_PASS_USER="เลือกผู้ใช้:"
+CHANGE_PASS_NEW="ป้อนรหัสผ่านใหม่:"
+CHANGE_PASS_CONFIRM="ยืนยันรหัสผ่าน:"
+CHANGE_PASS_ROOT_WARNING="คำเตือน! คุณกำลังเปลี่ยนรหัสผ่าน root"
+CHANGE_PASS_SUCCESS="✓ เปลี่ยนรหัสผ่านสำเร็จสำหรับ: %s"
+CHANGE_PASS_MISMATCH="✗ รหัสผ่านไม่ตรงกัน"
+CHANGE_PASS_EMPTY="✗ รหัสผ่านไม่สามารถว่างเปล่าได้"
+CHANGE_PASS_WEAK="✗ รหัสผ่านอ่อนเกินไป กรุณาใช้รหัสผ่านที่แข็งแกร่งกว่า"
+CHANGE_PASS_ERROR="✗ ข้อผิดพลาดในการเปลี่ยนรหัสผ่าน"
+
+ABOUT_TITLE="เกี่ยวกับ v2.3"
+ABOUT_TEXT="ตัวจัดการนโยบายรหัสผ่านสากล\n\nเวอร์ชัน: 2.3\nรองรับหลายการกระจาย\nรองรับหลายภาษา\nคุณสมบัติการจัดการครบถ้วน\n\nพัฒนาสำหรับ Linux"
+
+WELCOME_TITLE="ยินดีต้อนรับสู่ตัวจัดการ v2.3"
+WELCOME_MSG="ตัวจัดการนโยบายรหัสผ่าน v2.3\n\nการกระจาย: %s\nภาษา: ไทย\n\nคุณสมบัติ:\n• การจัดการนโยบาย\n• การเปลี่ยนรหัสผ่าน\n• หลายภาษา\n• การสำรองข้อมูลและการกู้คืน"
+
+LANG_SELECT_TITLE="ตัวเลือกภาษา"
+LANG_SELECT_PROMPT="เลือกภาษาที่คุณต้องการ:"
+LANG_CHANGED_TITLE="เปลี่ยนภาษาแล้ว"
+LANG_CHANGED_MSG="✓ เปลี่ยนภาษาเรียบร้อยแล้วเป็น: %s"
+
+SUCCESS_TITLE="สำเร็จ"
+ERROR_TITLE="ข้อผิดพลาด"
+WARNING_TITLE="คำเตือน"
+INFO_TITLE="ข้อมูล"
