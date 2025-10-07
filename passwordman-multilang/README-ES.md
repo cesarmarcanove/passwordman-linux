@@ -52,7 +52,7 @@ Edite la variable `CURRENT_LANG` en los archivos principales:
 ```bash
 # En /usr/local/bin/password-policy-manager
 # En /usr/local/bin/password-policy-manager-all
-'''
+```
 
 ### USO
 
