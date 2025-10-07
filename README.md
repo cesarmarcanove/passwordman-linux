@@ -1,5 +1,7 @@
 (For other languages, please use Traslate button icon above in navigation bar like "github.com" to traslating into your mother language)
 
+**NEW!!!**: Go to the directory **[passwordman-multilang](https://github.com/cesarmarcanove/passwordman-linux/tree/main/passwordman-multilang)** for new Version v2.3 support multilanguages!!
+
 # 🔐 Gestor Interactivo de Vencimiento de Contraseñas
 
 **Una herramienta TUI profesional para gestionar políticas de expiración de contraseñas en sistemas Linux**
