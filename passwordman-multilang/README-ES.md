@@ -44,6 +44,10 @@ El **Gestor de Políticas de Contraseñas** es una aplicación de línea de coma
 - Soporte para instalación offline
 - Interfaz optimizada para TUI
 
+## USO
+- Versión simple: sudo password-policy-manager
+- Versión extendida: sudo password-policy-manager-all
+
 ## 🌍 Cambio de Idioma
 
 ### Configuración Manual
@@ -53,11 +57,6 @@ Edite la variable `CURRENT_LANG` en los archivos principales:
 # En /usr/local/bin/password-policy-manager
 # En /usr/local/bin/password-policy-manager-all
 ```
-
-### USO
-
-- Versión simple: sudo password-policy-manager
-- Versión extendida: sudo password-policy-manager-all
 
 # Cambio de idiomas | Change Language
 CURRENT_LANG="es_ES" # Español
@@ -73,23 +72,25 @@ CURRENT_LANG="fr_FR"
 
 # Para alemán
 CURRENT_LANG="de_DE"
+
 variantes: de_VE, de_DE_runes
 
 # Para italiano
 CURRENT_LANG="it_IT"
+
 variantes: it_VE, it_AR, it_US, it_LA
 
 # Para ucraniano (Slava Ukraini)
 CURRENT_LANG="uk_UA"
 
-### LICENCIA
+## LICENCIA
 
 GPL v2.0 License - Ver archivo LICENSE para detalles completos.
 
 Se concede permiso para usar, copiar, modificar y distribuir este software
 sin restricciones, siempre que se incluya el aviso de copyright.
 
-### COPYRIGHT
+## COPYRIGHT
 
 Copyright (c) 2024 Gestor de Políticas de Contraseñas
 Todos los derechos reservados según los términos de la GPL v2.0.
@@ -102,4 +103,5 @@ versión del sistema.
 
 ### Versión: 2.3
 Actualización: Octubre del 2025
+
 Soporte: Sistemas Linux Multi-Distribución
